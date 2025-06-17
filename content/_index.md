@@ -11,10 +11,16 @@ margin = 0.2
 
 +++
 
-# 📽️
+# 📄
 
-# reveal-hugo
+# Gospel Tracts
 
-A Hugo theme for creating Reveal.js presentations.
+A collection of tracts in the form of web slides.
 
-~ made by [@dzello](https://joshed.io/) ~
+---
+
+Powered by:
+
+- Reveal
+- Hugo
+- Netlify
