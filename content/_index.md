@@ -1,5 +1,5 @@
 +++
-title = "tract"
+title = "Shepherd's Grace"
 description = "A Hugo theme for creating Reveal.js presentations"
  
 # highlight_theme = "color-brewer"
@@ -8,16 +8,16 @@ description = "A Hugo theme for creating Reveal.js presentations"
 
 +++
 
-# 📄
-
-# Gospel Tracts
+ 
 
 A collection of tracts in the form of web slides.
 
+Work in progress
 ---
 
 Powered by:
 
+- Congo
 - Reveal
 - Hugo
 - Netlify
