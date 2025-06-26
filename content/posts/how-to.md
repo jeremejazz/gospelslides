@@ -1,9 +1,6 @@
 +++
 title = "How to be Saved"
-
-outputs = ["Reveal"]
-[reveal_hugo]
-custom_theme = "reveal-hugo/themes/sunblind.css"
+ 
 
 +++
 
@@ -18,9 +15,9 @@ It is important to know that good works cannot save us.
 "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God"
 — Ephisians 2:8
 
-{{% fragment %}}"Not of works, lest any man should boast."  
+"Not of works, lest any man should boast."  
 — Ephisians 2:9
-{{% /fragment %}}
+
 
 ---
 

@@ -1,44 +1,27 @@
-baseURL = "https://tract/"
-languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
-disableKinds = ["sitemap", "RSS"]
-theme = ["reveal-hugo"]
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
 
-# theme = "."
-# themesDir = "../"
+theme = "congo"
+defaultContentLanguage = "en"
 
-# uncomment for browsing at file:///
-# relativeURLs = true
-# uglyURLs = true
+enableRobotsTXT = true
+summaryLength = 0
 
-[params]
-author = ""
+[pagination]
+  pagerSize = 15
 
-# currently only the unsafe mode for goldmark is supported
-[markup.goldmark.renderer]
-unsafe = true
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
-# choose between Hugo compile-time or Highlight.js
-# syntax highlighting for code inside of code fences
-[markup.highlight]
-codeFences = false  # use highlight.js
-# codeFences = true  # use hugo highlighting at compile time
-style = "tango"  # set a style for hugo highlighting
+[privacy]
+  [privacy.vimeo]
+    enableDNT = true
+  [privacy.x]
+    enableDNT = true
+  [privacy.youTube]
+    privacyEnhanced = true
 
-[outputFormats.Reveal]
-baseName = "index"
-mediaType = "text/html"
-isHTML = true
-
-[params.reveal_hugo]
-history = true
-
-# used in content/template-example
-[params.reveal_hugo.templates.grey]
-background = "#424242"
-transition = "convex"
-
-[module]
-  # needs hugo v0.109.0 or higher and go 1.18 or higher:
-  # uncomment line below for local development of module
-  # workspace = "hugo.work"
+[services]
+  [services.x]
+    disableInlineCSS = true
