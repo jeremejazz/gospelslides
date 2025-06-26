@@ -9,7 +9,7 @@ copyright = "&copy; 2025 Shepherd's Grace"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["slides"]
+  mainSections = ["presentations"]
   description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 
 # [params.author]

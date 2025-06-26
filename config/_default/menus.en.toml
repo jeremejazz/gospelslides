@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Slides"
-  pageRef = "slides"
+  name = "Presentations"
+  pageRef = "presentations"
   weight = 10
 
 [[main]]
