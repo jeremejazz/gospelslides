@@ -37,17 +37,17 @@ fingerprintAlgorithm = "sha256"
 
 [article]
   showDate = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  showEdit = false
+  # editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
   editAppendPath = true
   showHeadingAnchors = false
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
@@ -56,7 +56,7 @@ fingerprintAlgorithm = "sha256"
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   showTableOfContents = true
   showTaxonomies = false
   groupByYear = false
