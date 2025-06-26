@@ -1,7 +1,8 @@
 +++
 title = "How to be Saved"
-
-
+date = 2025-06-26T07:32:56.813Z
+[slides]
+  theme = "white"
 +++
 
 # How to be saved?
