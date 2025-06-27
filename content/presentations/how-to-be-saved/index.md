@@ -18,11 +18,15 @@ It is important to know that good works cannot save us.
 ---
 
 "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God"
+
 — Ephisians 2:8
 
-"Not of works, lest any man should boast."  
-— Ephisians 2:9
 
+{{< fragment >}}
+"Not of works, lest any man should boast."  
+<br/>
+— Ephisians 2:9
+{{< /fragment >}}
 
 ---
 
