@@ -35,18 +35,13 @@ Though this might be added to 2 files:
 
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
 
-      {{/* Load Reveal CSS */}}
+      <!-- {{/* Load Reveal CSS */}}
   <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.min.css">
   {{- $theme := $.Param "slides.theme" | default "black" -}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.min.css">
+  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.min.css"> -->
 
-  {{/* Load any Reveal CSS customizations */}}
-  {{ $custom_reveal_css := printf "css/reveal_custom.css" }}
-  {{ if (fileExists (printf "assets/%s" $custom_reveal_css)) }}
-    {{ $css_custom := resources.Get "css/reveal_custom.css" }}
-    {{ $style := slice $css_custom | resources.Concat "css/reveal_custom.css" | resources.Minify }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-  {{ end }}
+
+  {{ partial "presentations/theme" . -}}
   </head>
 
   <body>
