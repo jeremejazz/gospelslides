@@ -83,14 +83,20 @@ Though this might be added to 2 files:
 
     {{/* Load Reveal and built-in plugins. */}}
   <script src="{{ $cdn_url_reveal }}/dist/reveal.min.js" crossorigin="anonymous"></script>
-  <script src="{{ $cdn_url_reveal }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
-  <!-- <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+
+  <!--
+    <script src="{{ $cdn_url_reveal }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+
+    <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+
   <script src="{{ $cdn_url_reveal }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
   <script src="{{ $cdn_url_reveal }}/plugin/math/math.min.js" crossorigin="anonymous"></script> -->
   <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 
     <script>
-      Reveal.initialize();
+      Reveal.initialize({
+        plugins: [RevealZoom],
+      });
     </script>
 </body>
 </html>
