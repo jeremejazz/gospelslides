@@ -1,0 +1,21 @@
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description -}}
+  <meta name="description" content="{{ . }}" />
+  <meta property="og:description" content="{{ . }}" />
+  {{ end }}
+  <meta property="og:site_name" content="{{ .Site.Title }}" />      
+      
+      {{- with $.Params.images -}}
+        {{- range first 6 . }}
+        <meta property="og:image" content="{{ .Permalink }}" />{{ end -}}
+        {{- else -}}
+        {{- $images := $.Resources.ByType "image" -}}
+        {{- $featured := $images.GetMatch "*feature*" -}}
+        {{- if not $featured }}{{ with .Site.Params.defaultFeaturedImage }}{{ $featured = resources.Get . }}{{ end }}{{ end -}}
+        {{- with $featured -}}
+ 
+        <meta property="og:image" content="{{ .Permalink }}" />
+  
+        {{- end -}}
+      {{- end -}}

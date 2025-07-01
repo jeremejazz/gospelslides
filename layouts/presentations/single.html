@@ -1,19 +1,10 @@
 
-<!-- Where the slideshow presentation is made
-
-TODO: Add front-matter configurations:
-
-- Set cover image as og:image 
-- add description
-
-Can also use this as basis
+<!--
+sources: 
 https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-plugin-reveal/layouts/slides/baseof.html
 https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-plugin-reveal/layouts/slides/single.html
 https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-plugin-reveal/layouts/partials/slides.html
-
-Though this might be added to 2 files:
-- single.html
-- partial/slides.html
+https://github.com/joshed-io/reveal-hugo
 
 -->
 <!DOCTYPE html>
@@ -23,9 +14,7 @@ Though this might be added to 2 files:
     {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.2.1" }}
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Hugo Blox Builder {{with site.Data.hugoblox.version}}{{.}}{{end}}">
+  {{ partial "presentations/meta" . -}}
 
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
     <link rel="manifest" href="{{ .RelPermalink }}">
@@ -34,12 +23,6 @@ Though this might be added to 2 files:
   <link rel="canonical" href="{{ .Permalink }}">
 
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
-
-      <!-- {{/* Load Reveal CSS */}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.min.css">
-  {{- $theme := $.Param "slides.theme" | default "black" -}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.min.css"> -->
-
 
   {{ partial "presentations/theme" . -}}
   </head>
