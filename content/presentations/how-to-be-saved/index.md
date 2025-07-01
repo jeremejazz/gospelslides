@@ -1,10 +1,11 @@
 +++
 title = "How to be Saved"
 date = 2025-06-26T07:32:56.813Z
-draft = false
+draft = true
 description = "How to be saved"
 summary = "Do you know where you are going after leaving this life on Earth."
 tags = ["tracts"]
+
 [slides]
   theme = "white"
 +++
