@@ -14,15 +14,11 @@ tags = ["tracts"]
 
 ## God's Simple Plan of Salvation
 
-
 ---
 
 
-My Friend: 
+<b class="redtext">My Friend:</b> I am asking you the most important question of life.
 
-{{< fragment >}}
-I am asking you the most important question of life.
-{{< /fragment >}}
 {{< fragment >}}
 **Your joy or sorrow for all eternity** depends on your **answer**.
 {{< /fragment >}}
@@ -51,60 +47,86 @@ God says in order to go to Heaven, you must be born again. In John 3:7, Jesus sa
 
 In the Bible God gives us the plan of how **be born again** which means **to be saved**. 
 
+{{< fragment >}}
 His plan is simple! You can be **saved** today. How?
+{{< /fragment >}}
 
 ---
+
 
 First, my friend, you must realize you are a sinner. 
 
+{{< fragment >}}
 <span class="redtext">"**For all have sinned,** and come short of the glory of God"</span> (Romans 3:23)
+{{< /fragment >}}
 
 ---
 
-Because you are sinner, you are condemned to death. "For the wages (payment) of sin is death" (Romans 6:23). This includes eternal separation from God in Hell.
+Because you are sinner, you are condemned to death. <span class="redtext">"For the wages </span>(payment) <span class="redtext">of sin is death"</span> (Romans 6:23). 
+
+---
+**This includes eternal separation from God in Hell.**
+
+{{< fragment >}}
+<span class="redtext">"... It is appointed unto men once to die, but after this the judgment"</span> (Hebrews 9:27).
+{{< /fragment >}}
 
 ---
 
-"... It is appointed unto men once to die, but after this the judgment" (Hebrews 9:27).
+But God loved you so much **He gave His only begotten Son, Jesus, to bear your sin and die in your place.** 
+
+{{< fragment >}}
+<span class="redtext">"...He hath made Him</span> *[Jesus, Who knew no sin]* <span class="redtext">to be sin for us...that we might be made the righteousness of God in Him"</span> (2 Corinthians 5:21).
+{{< /fragment >}}
 
 ---
 
-But God loved you so much He gave His only begotten Son, Jesus, to bear your sin and die in your place. 
+**Jesus had to shed His blood and die.** 
 
-"...He hath made Him [Jesus, Who knew no sin] to be sin for us...that we might be made the righteousness of God in Him" (2 Corinthians 5:21).
+{{< fragment >}}
+<span class="redtext">"For the life of the flesh is in the blood"</span> (Leviticus 17:11). 
+{{< /fragment >}}
+&nbsp;
 
----
+{{< fragment >}}
+<span class="redtext">"...without shedding of blood is no remission</span> *[pardon]*" (Hebrews 9:22)
+{{< /fragment >}}
 
-Jesus had to shed His blood and die. "For the life of the flesh is in the blood" (Leviticus 17:11). 
+&nbsp;
+{{< fragment >}}
+<span class="redtext">"...God commandeth His love toward us, in that, while we were yet sinners, **Christ died for us**"</span> (Romans 5:8).
+{{< /fragment >}}
 
-"...without shedding of blood is no remission [pardon]" (Hebrews 9:22)
-
-
-"...God commandeth His love toward us, in that, while we were yet sinners, Christ died for us" (Romans 5:8).
-
----
-
-Although we cannot understand how, God said my sins and your sins were laid upon Jesus and He died in our place. He became our substitute. It is true, God cannot lie.
-
----
-
-My friend, "God ... commandeth all men everywhere to repent" (Acts 17:30). This repentance is a change of mind that agrees with God that one is a sinner, and also agrees with what Jesus did for us on the Cross.
 
 ---
 
-In Acts 16:30-31, the Philippian jailer asked Paul and Silas: "... Sirs, what must I do to be saved?" And they said, 'Believe on the Lord Jesus Christ, and thou shalt be saved...."
+Although we cannot understand how, God said **my sins and your sins** were laid upon Jesus and **He died in our place**. He became **our substitute.** It is true, God cannot lie.
 
 ---
 
-Simply believe on Him as the one who bore your sin, died in your place, was buried, and whom God resurrected. His resurrection powerfully assures that the believer can claim everlasting life when Jesus is received as Savior.
+My friend, <span class="redtext">"God ... commandeth all men everywhere to **repent**"</span> (Acts 17:30). This **repentance** is a change of mind that agrees with God that one is a sinner, and also agrees with what Jesus did for us on the Cross.
 
 ---
 
-"But as many as received Him, to them gave He power to become the sons of God, even to them that believe on His name" (John 1:12).
+In Acts 16:30-31, the Philippian jailer asked Paul and Silas: <span class="redtext">"... Sirs, what must I do to be saved?" And they said, 'Believe on the Lord Jesus Christ, and thou shalt be saved...."</span>
 
-"For whosoever shall call upon the name of the Lord shall be saved" (Romans 10:13).
+---
 
-Whosoever includes you. Shall be saved means not maybe, nor can, but shall be saved.
+Simply believe on Him as **the one who bore your sin, died in your place,** was buried, and whom God resurrected. **His resurrection powerfully assures** that the believer can claim everlasting life when Jesus is received as Savior.
+
+---
+
+<span class="redtext">"But as many as received Him, **to them gave He power** to become the sons of God, even to them that believe on His name"</span> (John 1:12).
+
+&nbsp;
+{{< fragment >}}
+<span class="redtext">"For **whosoever** shall call upon the name of the Lord **shall be saved**"</span> (Romans 10:13).
+{{< /fragment >}}
+
+&nbsp;
+{{< fragment >}}
+**Whosoever** includes you. **Shall be saved** means not maybe, nor can, **but shall be saved**.
+{{< /fragment >}}
 
 ---
 
@@ -114,7 +136,9 @@ Surely, you realize you are a sinner. Right now, wherever you are, repenting, li
 
 In Luke 18:13, the sinner prayed: 
 
-"God be merciful to me a sinner." 
+<span class="redtext">"God be merciful to me a sinner."</span>
+
+---
 
 Just pray: 
 
@@ -122,7 +146,11 @@ Just pray:
 
 ---
 
-Just take God at His word and claim His salvation by faith. Believe, and you will be saved. No church, no lodge, no good works can save you. Remember, God does the saving. All of it!
+**Just take God at His word** and claim His salvation by faith. **Believe, and you will be saved.** No church, no lodge, no good works can save you. 
+
+{{< fragment >}}
+**Remember, God does the saving. All of it!**
+{{< /fragment >}}
 
 ---
 
@@ -130,7 +158,11 @@ Just take God at His word and claim His salvation by faith. Believe, and you wil
 
 ---
 
+<!-- continue formatting #21 -->
+
 If you believe on Him as your crucified, buried, and risen Savior, you receive forgiveness for all of your sins and His gift of eternal salvation by faith.
+
+---
 
 You say, "Surely, it cannot be that simple." Yes, that simple! It is scriptural. It is God's plan. My friend, believe on Jesus and receive Him as Savior today.
 
