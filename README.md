@@ -1,12 +1,8 @@
-# Shepherd's Grace
+# Gospel Slides
 
-Trying to create online tracts with revealjs. 
+Sharing gospel tracts with RevealJS Slides.
 
-Website generated in Hugo.
-
-
-
-This site uses the congo theme while also 
+This site uses the [blowfish](https://github.com/nunocoracao/blowfish) theme while also 
 implementing some code copied from Hugo Blox Builder and reveal-hugo.
 
 
