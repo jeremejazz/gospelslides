@@ -1,10 +1,10 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Gospel Slides"
 
 [params]
-  displayName = "Gospel Tracts"
+  displayName = "Gospel Slides"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
