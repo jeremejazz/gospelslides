@@ -1,4 +1,0 @@
-[submodule "themes/congo"]
-	branch = stable
-	path = themes/congo
-	url = git@github.com:jeremejazz/hugo-congo-theme.git

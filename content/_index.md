@@ -17,7 +17,7 @@ Work in progress
 
 Powered by:
 
-- Congo
+- Blowfish
 - Reveal
 - Hugo
 - Netlify
