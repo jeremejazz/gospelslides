@@ -139,11 +139,11 @@ In Luke 18:13, the sinner prayed:
 
 <span class="redtext">"God be merciful to me a sinner."</span>
 
----
-
+{{< fragment >}}
 Just pray: 
 
->"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."
+*"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."*
+{{< /fragment >}}
 
 ---
 
@@ -169,20 +169,30 @@ You say, "Surely, it cannot be that simple." Yes, that simple! It is scriptural.
 
 If His plan is not perfectly clear, **read this tract over and over, without closing it until you understand it.** Your soul is worth more than all the world.
 
+
+{{< fragment >}}
 <span class="redtext">"For what shall it profit a man, if he shall gain the whole world, **and lose his own soul?**"</span> (Mark 8:36).
+{{< /fragment >}}
 
 ---
 
-Be sure you are saved. If you lose your soul, you miss Heaven and lose all. **Please! Let God save you this very moment.**
+Be sure you are saved. If you lose your soul, you miss Heaven and lose all. 
+
+{{< fragment >}}
+**Please! Let God save you this very moment.**
+{{< /fragment >}}
 
 ---
 
 God's power will save you, keep you saved, and enable you to live a victorious Christian life. 
 
+{{< fragment >}}
 <span class="redtext">"There hath no temptation taken you but such as is common to man: but God is faithful, Who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it"</span> (I Corinthians 10:13).
+{{< /fragment >}}
 
 ---
 
+{{< slide transition="zoom-in slide-out" transition-speed="fast" >}}
 **Do not trust your feelings. They change. Stand on God's promises. They never change.** 
 
 ---
@@ -199,11 +209,13 @@ After you are saved, there are three things to practice daily for spiritual grow
 
 You should be baptized in obedience to the Lord Jesus Christ as a public testimony of your salvation, and then unite with a Bible-believing church without delay. 
 
+{{< fragment >}}
 <span class="redtext">"Be not thou therefore ashamed of the testimony of our Lord..."</span> (2 Timothy 1:8).
+{{< /fragment >}}
 
 ---
 
-<span class="redtext">"Whosoever therefore shall confess [testify of] Me before men, him will I confess also before My Father which is in heaven"</span> (Matthew 10:32).
+<span class="redtext">"Whosoever therefore shall confess</span> [testify of] <span class="redtext">Me before men, him will I confess also before My Father which is in heaven"</span> (Matthew 10:32).
 
 ---
 
