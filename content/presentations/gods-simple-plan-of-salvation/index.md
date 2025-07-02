@@ -2,15 +2,15 @@
 title="Gods Simple Plan of Salvation"
 date= 2025-06-30T12:37:10+08:00
 description = "I am asking you the most important question of life. Your joy or sorrow for all eternity depends on your answer"
-draft= true
-tags = ["tracts"]
+draft= false
+tags = ["tracts", "gospel"]
 [slides]
   theme = "white"
 [reveal_hugo]
   custom_css = "/presentation/gods-simple-plan-of-salvation/custom.css"
 +++
 
-{{< slide id="title" background="#13adeb" style="color:white" >}}
+{{< slide id="title" background="#7ccaeb"  >}}
 
 ## God's Simple Plan of Salvation
 
