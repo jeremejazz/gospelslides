@@ -16,15 +16,6 @@
   weight = 10
 
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/jeremejazz/shepherdsgrace"
-  weight = 40
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]

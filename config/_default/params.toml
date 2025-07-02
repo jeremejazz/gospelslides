@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -58,7 +58,7 @@ smartTOCHideUnfocusedChildren = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   # showAuthorBottom = false
   showHero = false
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
@@ -88,7 +88,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = true
