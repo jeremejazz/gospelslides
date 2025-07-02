@@ -142,7 +142,7 @@ In Luke 18:13, the sinner prayed:
 
 Just pray: 
 
-*"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."*
+>"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."
 
 ---
 
@@ -191,5 +191,21 @@ You should be baptized in obedience to the Lord Jesus Christ as a public testimo
 ---
 
 "Whosoever therefore shall confess [testify of] Me before men, him will I confess also before My Father which is in heaven" (Matthew 10:32).
+
+---
+
+End of Presentation
+<p>
+<small>
+<a href="/">Back to Home</a> | <a href="#title">Back to Title</a>
+</small>
+</p>
+<small>
+<a href="https://www.bereanbbc.org/" rel="nofollow" target="_blank">Berean Bible Baptist Church</a><br/>
+#6 First St. Area 1, UPS 5 Parañaque City <br/>
+Tel No. 829-1127<br/>
+<a href="mailto:berean_ups5@yahoo.com">berean_ups5@yahoo.com</a>
+
+</small>
 
 
