@@ -1,7 +1,8 @@
 +++
 title="Gods Simple Plan of Salvation"
 date= 2025-06-30T12:37:10+08:00
-description = "I am asking you the most important question of life. Your joy or sorrow for all eternity depends on your answer"
+description = "The most important question of life. Your joy or sorrow for all eternity depends on your answer"
+summary = "The most important question of life. Your joy or sorrow for all eternity depends on your answer"
 draft= false
 tags = ["tracts", "gospel"]
 [slides]
