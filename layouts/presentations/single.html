@@ -118,7 +118,10 @@ https://github.com/joshed-io/reveal-hugo
 
     <script>
       Reveal.initialize({
-        hash: false,
+      {{ if hugo.IsDevelopment }}
+        // Enable hash navigation only during development for easier debugging
+        hash: true,
+      {{ end }}
         scrollActivationWidth: null,
         plugins: [RevealZoom],
       });
