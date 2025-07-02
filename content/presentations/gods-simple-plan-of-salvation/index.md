@@ -159,39 +159,51 @@ Just pray:
 
 ---
 
-<!-- continue formatting #21 -->
-
-If you believe on Him as your crucified, buried, and risen Savior, you receive forgiveness for all of your sins and His gift of eternal salvation by faith.
+If you believe on Him as your crucified, buried, and risen Savior, you receive forgiveness for all of your sins and **His gift of eternal salvation by faith.**
 
 ---
 
-You say, "Surely, it cannot be that simple." Yes, that simple! It is scriptural. It is God's plan. My friend, believe on Jesus and receive Him as Savior today.
+You say, "Surely, it cannot be that simple." Yes, that simple! It is scriptural. It is God's plan. **My friend, believe on Jesus and receive Him as Savior today.**
 
 ---
 
-If His plan is not perfectly clear, read this tract over and over, without laying it down until you understand it. Your soul is worth more than all the world.
+If His plan is not perfectly clear, **read this tract over and over, without closing it until you understand it.** Your soul is worth more than all the world.
 
-"For what shall it profit a man, if he shall gain the whole world, and lose his own soul?" (Mark 8:36).
-
----
-
-Be sure you are saved. If you lose your soul, you miss Heaven and lose all. Please! Let God save you this very moment.
+<span class="redtext">"For what shall it profit a man, if he shall gain the whole world, **and lose his own soul?**"</span> (Mark 8:36).
 
 ---
 
-God's power will save you, keep you saved, and enable you to live a victorious Christian life. "There hath no temptation taken you but such as is common to man: but God is faithful, Who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it" (I Corinthians 10:13).
+Be sure you are saved. If you lose your soul, you miss Heaven and lose all. **Please! Let God save you this very moment.**
 
 ---
 
-Do not trust your feelings. They change. Stand on God's promises. They never change. After you are saved, there are three things to practice daily for spiritual growth: Pray—you talk to God. Read your Bible—God talks to you. Witness—you talk for God.
+God's power will save you, keep you saved, and enable you to live a victorious Christian life. 
+
+<span class="redtext">"There hath no temptation taken you but such as is common to man: but God is faithful, Who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it"</span> (I Corinthians 10:13).
 
 ---
 
-You should be baptized in obedience to the Lord Jesus Christ as a public testimony of your salvation, and then unite with a Bible-believing church without delay. "Be not thou therefore ashamed of the testimony of our Lord..." (2 Timothy 1:8).
+**Do not trust your feelings. They change. Stand on God's promises. They never change.** 
 
 ---
 
-"Whosoever therefore shall confess [testify of] Me before men, him will I confess also before My Father which is in heaven" (Matthew 10:32).
+After you are saved, there are three things to practice daily for spiritual growth: 
+
+{{< fragment >}}
+- **Pray**—you talk to God. 
+- **Read your Bible**—God talks to you. 
+- **Witness**—you talk for God.
+{{< /fragment >}}
+
+---
+
+You should be baptized in obedience to the Lord Jesus Christ as a public testimony of your salvation, and then unite with a Bible-believing church without delay. 
+
+<span class="redtext">"Be not thou therefore ashamed of the testimony of our Lord..."</span> (2 Timothy 1:8).
+
+---
+
+<span class="redtext">"Whosoever therefore shall confess [testify of] Me before men, him will I confess also before My Father which is in heaven"</span> (Matthew 10:32).
 
 ---
 
