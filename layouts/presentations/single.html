@@ -24,6 +24,51 @@ https://github.com/joshed-io/reveal-hugo
 
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
 
+    <style>
+
+/*
+ * Media query for screens with a maximum width of 768px (common tablet portrait/mobile landscape breakpoint)
+ * and in portrait orientation.
+ * This targets most mobile phones and smaller tablets when held vertically.
+ */
+@media screen and (max-width: 768px) and (orientation: portrait) {
+  html {
+    font-size: 32px; /* Increase base font size for portrait mobile/small tablet */
+  }
+
+  .reveal section{
+    font-size: 1.4em;   /* Paragraphs and list items will scale with the base */
+  }
+
+  .reveal .slides {
+ 
+  top: 35% !important;
+ 
+}
+
+ 
+}
+
+/*
+ * Optional: A more general mobile-first approach for all orientations on small screens.
+ * This ensures larger text on small screens regardless of orientation,
+ * then the portrait-specific rule above can further fine-tune.
+ */
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 32px; /* Slightly larger base font for very small screens (phones) */
+  }
+  .reveal section{
+    font-size: 1.6em;   /* Paragraphs and list items will scale with the base */
+  }
+
+  .reveal .slides {
+ 
+  top: 40% !important;
+ 
+}
+}
+    </style>
   {{ partial "presentations/theme" . -}}
   </head>
 
@@ -73,8 +118,8 @@ https://github.com/joshed-io/reveal-hugo
 
     <script>
       Reveal.initialize({
-        hash: false,
-          scrollActivationWidth: null,
+        hash: true,
+        scrollActivationWidth: null,
         plugins: [RevealZoom],
       });
     </script>
