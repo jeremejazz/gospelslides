@@ -63,7 +63,11 @@ First, my friend, you must realize you are a sinner.
 
 ---
 
-Because you are sinner, you are condemned to death. <span class="redtext">"For the wages </span>(payment) <span class="redtext">of sin is death"</span> (Romans 6:23). 
+Because you are sinner, you are condemned to death. 
+
+{{< fragment >}}
+<span class="redtext">"For the wages </span>(payment) <span class="redtext">of sin is death"</span> (Romans 6:23). 
+{{< /fragment >}}
 
 ---
 **This includes eternal separation from God in Hell.**
@@ -139,11 +143,12 @@ In Luke 18:13, the sinner prayed:
 
 <span class="redtext">"God be merciful to me a sinner."</span>
 
-{{< fragment >}}
+---
+{{< slide transition="fade-in slide-out" transition-speed="fast" >}}
 Just pray: 
 
 *"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."*
-{{< /fragment >}}
+
 
 ---
 
@@ -199,11 +204,11 @@ God's power will save you, keep you saved, and enable you to live a victorious C
 
 After you are saved, there are three things to practice daily for spiritual growth: 
 
-{{< fragment >}}
-- **Pray**—you talk to God. 
-- **Read your Bible**—God talks to you. 
-- **Witness**—you talk for God.
-{{< /fragment >}}
+<ul>
+{{< fragment >}}<li><b>Pray</b>—you talk to God.</li>{{< /fragment >}}
+{{< fragment >}}<li><b>Read your Bible</b>—God talks to you.</li>{{< /fragment >}}
+{{< fragment >}}<li><b>Witness</b>—you talk for God.</li>{{< /fragment >}}
+</ul>
 
 ---
 
@@ -225,6 +230,7 @@ End of Presentation
 <a href="/">Back to Home</a> | <a href="#title">Back to Title</a>
 </small>
 </p>
+
 <small>
 <a href="https://www.bereanbbc.org/" rel="nofollow" target="_blank">Berean Bible Baptist Church</a><br/>
 #6 First St. Area 1, UPS 5 Parañaque City <br/>
