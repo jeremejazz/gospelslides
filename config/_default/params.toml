@@ -65,7 +65,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   editURL = "https://github.com/jeremejazz/shepherdsgrace/tree/main/content"
   editAppendPath = true
   seriesOpened = false
@@ -79,7 +79,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  # sharingLinks = [ "facebook", "twitter", "linkedin", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "email"]
   showZenMode = true
 
 [list]
