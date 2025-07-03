@@ -21,6 +21,8 @@ Implementation of [Fragments](https://revealjs.com/fragments/).
 
 ### slide
 
+Customize the current slide
+
 ```md
 ---
 
@@ -32,6 +34,42 @@ Implementation of [Fragments](https://revealjs.com/fragments/).
 
 ```
 
-### section
+
+
+
+
+## Setup
+
+1. Clone the repository
+
+2. Install [hvm](https://github.com/jmooring/hvm)
+Then run the following
+```sh
+hvm status  
+```
+running status will prompt if you want to install the version specified in the `.hvm` file.
+
+If the installation process is too complicated install Hugo instead but be sure to install the specific version `v0.147.9`. Be sure to use the extended version (`hugo_extended`);
+
+3. To run locally
+
+```
+hugo server -D 
+```
+
+In your browser, run `localhost:1313` which should be also indicated in the terminal.
+
+## Creating new content
+
+### New Presentation
+```sh
+hugo new content presentations/your-slideshow/index.md
+```
+
+### New Page
+
+```
+hugo new content pagename.md
+```
 
 
