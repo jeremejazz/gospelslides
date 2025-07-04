@@ -166,4 +166,4 @@ smartTOCHideUnfocusedChildren = false
 
 [reveal_hugo]
   theme = "white"
-  reveal_cdn = "https://cdn.jsdelivr.net/npm/reveal.js@5.2.1"
+  revealLocation = "/lib/reveal-js"

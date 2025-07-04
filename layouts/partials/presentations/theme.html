@@ -1,6 +1,6 @@
 <!-- Theme used for presentation -->
-{{- $reveal_location := $.Param "reveal_hugo.reveal_cdn" | default "reveal-js" -}}
-{{- $highlight_location := $.Param "reveal_hugo.highlight_cdn" | default "highlight-js" -}}
+{{- $reveal_location := $.Param "reveal_hugo.revealLocation" | default "reveal-js" -}}
+
 {{- $custom_theme := $.Param "reveal_hugo.custom_theme" -}}
 <link rel="stylesheet" href="{{ printf "%s/dist/reset.css" $reveal_location | relURL }}">
 <link rel="stylesheet" href="{{ printf "%s/dist/reveal.css" $reveal_location | relURL }}">
@@ -18,11 +18,7 @@
   <link rel="stylesheet" href="{{ printf "%s/dist/theme/%s.css" $reveal_location $theme | relURL }}" id="theme">
 {{ end -}}
 {{ if $.Param "reveal_hugo.load_default_plugins" | default true -}}
-  <!-- Theme used for syntax highlighting of code -->
-  <!--
-  {{- $highlight_theme := $.Param "reveal_hugo.highlight_theme" | default "default" -}}
-  <link rel="stylesheet" href="{{ printf "%s/%s.min.css" $highlight_location $highlight_theme | relURL }}">
-  -->
+
 {{- end }}
 {{- $custom_css := $.Param "reveal_hugo.custom_css" -}}
 {{- if $custom_css -}}

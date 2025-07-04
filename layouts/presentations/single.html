@@ -11,7 +11,8 @@ https://github.com/joshed-io/reveal-hugo
 <html lang="{{ site.LanguageCode | default "en-us" }}">  
   <head>
       {{/* Asset versions */}}
-    {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.2.1" }}
+    {{- $reveal_location := $.Param "reveal_hugo.revealLocation" | default "reveal-js" -}}
+
 
   <meta charset="utf-8">
   {{ partial "presentations/meta" . -}}
@@ -105,16 +106,17 @@ https://github.com/joshed-io/reveal-hugo
 
 
     {{/* Load Reveal and built-in plugins. */}}
-  <script src="{{ $cdn_url_reveal }}/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="{{ $reveal_location }}/dist/reveal.js" crossorigin="anonymous"></script>
 
   <!--
-    <script src="{{ $cdn_url_reveal }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
 
-    <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+    <script src="{{ $reveal_location }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+    <script src="{{ $reveal_location }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+    <script src="{{ $reveal_location }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
+    <script src="{{ $reveal_location }}/plugin/math/math.min.js" crossorigin="anonymous"></script> 
+    <script src="{{ $reveal_location }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+  -->
 
-  <script src="{{ $cdn_url_reveal }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
-  <script src="{{ $cdn_url_reveal }}/plugin/math/math.min.js" crossorigin="anonymous"></script> -->
-  <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 
     <script>
       Reveal.initialize({
@@ -123,7 +125,7 @@ https://github.com/joshed-io/reveal-hugo
         hash: true,
       {{ end }}
         scrollActivationWidth: null,
-        plugins: [RevealZoom],
+        plugins: [],
       });
     </script>
 </body>
