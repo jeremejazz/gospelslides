@@ -6,6 +6,7 @@ description = "God had a plan when He designed the universe in which we live. He
 summary = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."
 tags = ["tracts"]
 [reveal_hugo]
+  theme = "forest"
   custom_css = "/presentation/lifes-greatest-discovery/custom.css"
 +++
 
