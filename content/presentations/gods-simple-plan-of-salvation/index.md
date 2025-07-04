@@ -224,10 +224,12 @@ You should be baptized in obedience to the Lord Jesus Christ as a public testimo
 
 ---
 
-End of Presentation
-<p>
+---
+
+
+<p> 
 <small>
-<a href="/">Back to Home</a> | <a href="#title">Back to Title</a>
+<a href="#title">Return to Title</a> | <a href="/">Return to Home</a>
 </small>
 </p>
 
