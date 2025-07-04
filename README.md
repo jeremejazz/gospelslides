@@ -6,6 +6,33 @@ This site uses the [blowfish](https://github.com/nunocoracao/blowfish) theme whi
 implementing some code copied from Hugo Blox Builder and reveal-hugo.
 
 
+## Presentations
+
+A custom content type has been added called presentations. This uses RevalJS
+
+### Markdown
+
+
+```md
+
+# Slide 1
+
+---
+
+
+First Slide
+
+___
+
+```
+
+### Presentation Controls
+- Next: `Right Arrow` or `Space`
+- Previous: `Left Arrow`
+- Start: `Home`
+- Finish: `End`
+- Overview: `Esc`
+
 
 ## Shortcodes
 
