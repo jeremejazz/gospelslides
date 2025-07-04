@@ -14,20 +14,17 @@ tags = ["tracts"]
 
 ---
 
-It is important to know that good works cannot save us.
-
----
-
-"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God"
-
-— Ephisians 2:8
-
+It is important to know that good works **cannot** save us.
 
 {{< fragment >}}
-"Not of works, lest any man should boast."  
-<br/>
-— Ephisians 2:9
+"For by grace are ye **saved** through faith; and that not of yourselves: it is the **gift** of God:
 {{< /fragment >}}
+
+{{< fragment >}}
+Not of works, lest any man should boast." <br/> 
+— Ephisians 2:8-9
+{{< /fragment >}}
+
 
 ---
 
@@ -39,8 +36,11 @@ It is important to know that good works cannot save us.
 
 ---
 
-"As it is written, There is none righteous, no, not one"
+"As it is written, There is **none** righteous, no, not one"<br/>
 — Romans 3:10
+
+"For **all have sinned**, and come short of the glory of God;"<br/>
+— Romans 3:23
 
 ---
 
@@ -48,7 +48,8 @@ It is important to know that good works cannot save us.
 
 ---
 
-"That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+"That if thou shalt confess with thy mouth the Lord Jesus, and shalt **believe** in thine heart that God hath raised him from the dead, thou shalt be saved."
+
 — Romans 10:9
 
 ---
@@ -67,5 +68,7 @@ It is important to know that good works cannot save us.
 
 
 ---
+
+End of Slide
 
 [Back to Home](/)
