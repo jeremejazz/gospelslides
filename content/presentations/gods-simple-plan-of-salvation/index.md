@@ -109,11 +109,19 @@ Although we cannot understand how, God said **my sins and your sins** were laid 
 
 ---
 
-My friend, <span class="redtext">"God ... commandeth all men everywhere to **repent**"</span> (Acts 17:30). This **repentance** is a change of mind that agrees with God that one is a sinner, and also agrees with what Jesus did for us on the Cross.
+My friend, <span class="redtext">"God ... commandeth all men everywhere to **repent**"</span> (Acts 17:30). 
+
+{{< fragment >}}
+This **repentance** is a change of mind that agrees with God that one is a sinner, and also agrees with what Jesus did for us on the Cross.
+{{< /fragment >}}
 
 ---
 
-In Acts 16:30-31, the Philippian jailer asked Paul and Silas: <span class="redtext">"... Sirs, what must I do to be saved?" And they said, 'Believe on the Lord Jesus Christ, and thou shalt be saved...."</span>
+In Acts 16:30-31, the Philippian jailer asked Paul and Silas: 
+
+{{< fragment >}}
+<span class="redtext">"... Sirs, what must I do to be saved?" And they said, 'Believe on the Lord Jesus Christ, and thou shalt be saved...."</span>
+{{< /fragment >}}
 
 ---
 
@@ -139,12 +147,14 @@ Surely, you realize you are a sinner. Right now, wherever you are, repenting, li
 
 ---
 
+{{< slide transition="slide-in fade-out" >}}
+
 In Luke 18:13, the sinner prayed: 
 
 <span class="redtext">"God be merciful to me a sinner."</span>
 
 ---
-{{< slide transition="fade-in slide-out" transition-speed="fast" >}}
+{{< slide transition="fade-in slide-out" >}}
 Just pray: 
 
 *"Oh God, I know I am a sinner, I believe Jesus was my substitute when he died on the Cross. I believe His shed blood, death, burial, and resurrection were for me, I now receive Him as my Savior. I thank You for the forgiveness of my sins, the gift of salvation and everlasting life, because of Your merciful grace. Amen."*
@@ -189,6 +199,8 @@ Be sure you are saved. If you lose your soul, you miss Heaven and lose all.
 
 ---
 
+{{< slide transition="slide-in fade-out" >}}
+
 God's power will save you, keep you saved, and enable you to live a victorious Christian life. 
 
 {{< fragment >}}
@@ -197,7 +209,7 @@ God's power will save you, keep you saved, and enable you to live a victorious C
 
 ---
 
-{{< slide transition="zoom-in slide-out" transition-speed="fast" >}}
+{{< slide transition="zoom-in slide-out"  >}}
 **Do not trust your feelings. They change. Stand on God's promises. They never change.** 
 
 ---
