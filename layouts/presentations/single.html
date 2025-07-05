@@ -67,8 +67,19 @@ https://github.com/joshed-io/reveal-hugo
  
   top: 40% !important;
  
+  }
 }
+
+/* for Iphone SE screen size or similar */
+@media screen and (max-width: 480px) and (max-height: 667px) {
+ 
+    .reveal .slides {
+  
+    top: 35% !important;
+  
+   }
 }
+
     </style>
   {{ partial "presentations/theme" . -}}
   </head>
