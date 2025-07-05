@@ -7,7 +7,7 @@ summary = "God had a plan when He designed the universe in which we live. He als
 tags = ["tracts"]
 [reveal_hugo]
   theme = "forest"
-  custom_css = "/presentation/lifes-greatest-discovery/custom.css"
+  custom_css = "/presentations/lifes-greatest-discovery/custom.css"
 +++
 
 *The following presentation is still a work in progress*
@@ -171,6 +171,37 @@ On which side would you like to be?
 
 Jesus is seeking entrance into your life at this moment.
 Is there any good reason why you cannot receive Jesus Christ right now?
+
+
+---
+
+<span class="green">It's really very simple, much like taking . . .</span>
+
+---
+
+## FOUR STEPS
+
+<ul>
+{{< fragment >}}<li><span class="green">Step One</span> — Admit that you are a sinner and that your sin has separated you from God.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="green">Step Two</span> — Repent (turn away from your sin and toward God) and ask Him to forgive you.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="green">Step Three</span> — Trust in Jesus who died to pay for your sin and rose victorious over death, giving proof that He is God.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="green">Step Four</span> — Yield/commit your life to Him to take control of, from this moment on.</li>{{< /fragment >}}
+</ul>
+
+---
+
+The following is a suggested prayer:
+
+Dear God, I come to you as a sinner. I realize that I deserve to go to hell but am asking that you would be merciful to me and forgive me of my sin. I commit my life to You to take full control of, from this day forward. Thank you for the gift of salvation as I now place my faith and trust in Jesus as my personal Lord and Savior. In Jesus name I pray, Amen.
+
+---
+
+Does this prayer express the desire of your heart? Right now you can pray this prayer and claim the promise that God has made to you and to all that will receive by faith the gift of God which is eternal life in Jesus Christ our Lord.
+
+Please call the church office (829-1127) if you have prayed this prayer so we can rejoice with you and hopefully help you to grow spiritually in your new life of faith in Christ.
+
+---
+
 
 
 ---
