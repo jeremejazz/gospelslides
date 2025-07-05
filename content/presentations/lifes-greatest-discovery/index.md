@@ -16,14 +16,14 @@ tags = ["tracts"]
 
 ---
 
-{{< slide id="title" background="green"  >}}
+{{< slide id="title" background="yellowgreen"  >}}
 
 # Life's Greatest Discovery.
 
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 God had a plan when He designed the universe in which we live. He also had a plan when he designed you.
 The most wonderful experience you can have is to discover and participate in God's plan for your life.
@@ -40,19 +40,21 @@ Life's greatest discovery begins when you realize God loves you, and has a wonde
 ---
 
 The Bible says, "God loves you."
->For God so loved the world that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life. <br/>— John 3:16.
+
+For God so loved the world that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life. <br/>— John 3:16.
 
 
 ---
 
 God wants you to know His plan for your life.
+
 I am come that they might have life, and that they might have it more abundantly (a life full of meaning and purpose) — John 10:10b.
 
 ---
 
 From the Bible you see that God loves you and wants you to enjoy the abundant life.
 
-<span class="green">Why do you suppose most people are not experiencing God's love and enjoying an abundant life?</span>
+<span class="yellowgreen">Why do you suppose most people are not experiencing God's love and enjoying an abundant life?</span>
 
 
 ---
@@ -61,7 +63,7 @@ From the Bible you see that God loves you and wants you to enjoy the abundant li
 
 {{< fragment >}}
 
-<span class="green">Because . . .</span>
+<span class="yellowgreen">Because . . .</span>
 
 Man is a sinner and sin has separated him from God. God created man His image and gave him an abundant life. He did not make him as a puppet on a string to love and obey Him automatically; but gave him a will and freedom of choice.
 
@@ -124,13 +126,13 @@ Neither is there salvation in any other; for there is none other name under heav
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 The Bible says that Jesus died a humiliating, agonizing death. His death paid the penalty for all our sins. But He didn't stay dead. He rose again that we might be right with God. The gap created by our sin has been bridged by Jesus' death and resurrection.
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 **He died for our sins.**
 
@@ -138,7 +140,7 @@ But God commendeth (proved) His love toward us, in that, while we were yet sinne
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 **He rose from the dead.**
 
@@ -146,7 +148,7 @@ That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in t
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 **Jesus Christ is the only way to God.**
 
@@ -154,7 +156,7 @@ Jesus said unto him, "I am the way, the truth, and the life: no man cometh unto 
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 It is not enough to discover that God loves you and has a plan for your life . . . that man is a sinner . . . and Christ is God's remedy for sin . . .
 
@@ -182,7 +184,7 @@ On which side would you like to be?**
 
 ---
 
-<span class="green">Here's how you can personally receive Christ.</span>
+<span class="yellowgreen">Here's how you can personally receive Christ.</span>
 
 Trust Jesus and receive Him by personal invitation.
 
@@ -204,17 +206,17 @@ Is there any good reason why you cannot receive Jesus Christ right now?
 
 {{< slide transition="slide-in fade-out"  >}}
 
-<span class="green">It's really very simple, much like taking . . .</span>
+<span class="yellowgreen">It's really very simple, much like taking . . .</span>
 
 ---
 
 ## FOUR STEPS
 
 <ul>
-{{< fragment >}}<li><span class="green">Step One</span> — Admit that you are a sinner and that your sin has separated you from God.</li>{{< /fragment >}}
-{{< fragment >}}<li><span class="green">Step Two</span> — Repent (turn away from your sin and toward God) and ask Him to forgive you.</li>{{< /fragment >}}
-{{< fragment >}}<li><span class="green">Step Three</span> — Trust in Jesus who died to pay for your sin and rose victorious over death, giving proof that He is God.</li>{{< /fragment >}}
-{{< fragment >}}<li><span class="green">Step Four</span> — Yield/commit your life to Him to take control of, from this moment on.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="yellowgreen">Step One</span> — Admit that you are a sinner and that your sin has separated you from God.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="yellowgreen">Step Two</span> — Repent (turn away from your sin and toward God) and ask Him to forgive you.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="yellowgreen">Step Three</span> — Trust in Jesus who died to pay for your sin and rose victorious over death, giving proof that He is God.</li>{{< /fragment >}}
+{{< fragment >}}<li><span class="yellowgreen">Step Four</span> — Yield/commit your life to Him to take control of, from this moment on.</li>{{< /fragment >}}
 </ul>
 
 ---
@@ -223,13 +225,13 @@ Trusting in Jesus is more than mentally recognizing Him as the Son of God or hav
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 You can express these steps to God by talking to Him in prayer. His main concern is that you understand what you are doing and that you are praying from your heart.
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 The following is a suggested prayer:
 
@@ -237,7 +239,7 @@ Dear God, I come to you as a sinner. I realize that I deserve to go to hell but 
 
 ---
 
-{{< slide background="greenyellow"  >}}
+{{< slide background="yellowgreen"  >}}
 
 Does this prayer express the desire of your heart? Right now you can pray this prayer and claim the promise that God has made to you and to all that will receive by faith the gift of God which is eternal life in Jesus Christ our Lord.
 
@@ -273,6 +275,9 @@ Eternal life is a gift and cannot be earned. It is a part of God's wonderful pla
 
 ---
 
+
+{{< slide background="yellowgreen"  >}}
+
 Many people wonder about feelings.
 ## FEELINGS CHANGE . . .
 
@@ -298,7 +303,7 @@ Nothing more wonderful could happen to you than receiving Christ.
 
 It would please God for you to thank Him through prayer right now for what He has done for you. This prayer of thanksgiving demonstrates your love for God.
 
-<span class="green">What's next?</span>
+<span class="yellowgreen">What's next?</span>
 
 ---
 
@@ -353,12 +358,35 @@ By Immersion in Water, because . . .
 
 You can see from the Bible the why, how, and when of baptism. This is part of God's plan for you and you should follow Christ in believer's baptism as soon as possible.
 
+---
+
+Here is what the Bible teaches about . . .
+## the Church!
+
+---
+
+The Bible commands us to attend church regularly. (Hebrews 10:25). You need to meet with others who have trusted the Lord Jesus Christ and be taught from the Bible. You need the church for several reasons: worship, teaching, fellowship, counsel.
+
+---
+
+Several logs burn brightly together, but put one aside on the cold hearth and the fire goes out. So it is with your relationship to other Christians. You need to belong to a Bible-believing church. Do not wait to be invited. Take the initiative; call the pastor of a nearby church where Christ is honored and His Word is preached. Start this week, and make plans to attend regularly.
+
 
 ---
 
 
+Share your discovery today!
+
 ---
 
-(Work in progress)
+---
+
+
 
 [Back to Home](/) | [Back to Title](#title)
+
+Berean Bible Baptist Church
+#6 First St. Area I, UPS 5
+Parañaque City 1700
+Tel. No.: 829-1127
+E-mail: berean_ups5@yahoo.com
