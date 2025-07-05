@@ -8,7 +8,7 @@ tags = ["tracts", "gospel"]
 [slides]
   theme = "white"
 [reveal_hugo]
-  custom_css = "/presentation/gods-simple-plan-of-salvation/custom.css"
+  custom_css = "/presentations/gods-simple-plan-of-salvation/custom.css"
 +++
 
 {{< slide id="title" background="#7ccaeb"  >}}
