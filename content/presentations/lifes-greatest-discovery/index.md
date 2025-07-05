@@ -122,7 +122,7 @@ Neither is there salvation in any other; for there is none other name under heav
 
 ---
 
-<img src="https://placehold.co/600x400" alt="Who controls your life?">
+<img src="https://res.cloudinary.com/jereme/image/upload/v1751714128/gospelslides/lifes-greatest-discovery/03-paid-and-bridged-the-gap-alpha.png" alt="He paid for our sins and bridged the gap that separates us from God">
 
 ---
 
@@ -176,7 +176,7 @@ Receiving Christ involves turning over control of your life to Christ.
 
 ### WHO CONTROLS YOUR LIFE?
 
-<img src="https://placehold.co/600x400" alt="Who controls your life?">
+<img src="https://res.cloudinary.com/jereme/image/upload/v1751713767/gospelslides/lifes-greatest-discovery/04-who-controls-your-life.jpg" alt="Who controls your life?">
 
 
 **On which side are you? <br/>
@@ -374,19 +374,20 @@ Several logs burn brightly together, but put one aside on the cold hearth and th
 
 ---
 
-
-Share your discovery today!
-
----
-
----
+<span class="yellowgreen">**Share your discovery today!**</span>
 
 
-
-[Back to Home](/) | [Back to Title](#title)
-
-Berean Bible Baptist Church
-#6 First St. Area I, UPS 5
-Parañaque City 1700
-Tel. No.: 829-1127
+Berean Bible Baptist Church <br/>
+#6 First St. Area I, UPS 5 <br/>
+Parañaque City 1700<br/>
+Tel. No.: 829-1127<br/>
 E-mail: berean_ups5@yahoo.com
+
+---
+
+[Return to Title](#title) | [Go to Homepage](/)
+
+
+Share:
+
+{{< sharing >}}

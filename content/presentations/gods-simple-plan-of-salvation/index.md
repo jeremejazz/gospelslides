@@ -236,21 +236,24 @@ You should be baptized in obedience to the Lord Jesus Christ as a public testimo
 
 ---
 
----
-
-
-<p> 
-<small>
-<a href="#title">Return to Title</a> | <a href="/">Return to Home</a>
-</small>
-</p>
-
-<small>
+ 
 <a href="https://www.bereanbbc.org/" rel="nofollow" target="_blank">Berean Bible Baptist Church</a><br/>
 #6 First St. Area 1, UPS 5 Parañaque City <br/>
 Tel No. 829-1127<br/>
 <a href="mailto:berean_ups5@yahoo.com">berean_ups5@yahoo.com</a>
 
-</small>
+ 
+---
+
+
+<p> 
+
+<a href="#title">Return to Title</a> | <a href="/">Go to Homepage</a>
+
+</p>
+
+Share: 
+ 
+{{< sharing >}}
 
 
