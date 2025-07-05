@@ -1,0 +1,22 @@
+
+
+{{ with  (.Site.Params.article.sharingLinks | default false) }}
+
+  {{ $links := site.Data.sharing }}
+
+    {{ range . }}
+      {{ with index $links . }}
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="{{ printf .url $.Page.Permalink $.Page.Title }}"
+      title="{{ print $.Page.Title }}"
+      aria-label="{{ print $.Page.Title }}"
+      >
+      {{ partial "icon.html" .icon }}
+    </a>
+      {{ end }}
+    {{ end }}
+
+{{ end }}
+
