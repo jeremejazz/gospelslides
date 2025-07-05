@@ -15,6 +15,7 @@
         {{- if not $featured }}{{ with .Site.Params.defaultFeaturedImage }}{{ $featured = resources.Get . }}{{ end }}{{ end -}}
         {{- with $featured -}}
  
+            <meta name="twitter:image" content="{{ .Permalink }}" />
         <meta property="og:image" content="{{ .Permalink }}" />
   
         {{- end -}}
