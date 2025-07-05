@@ -76,7 +76,7 @@ hvm status
 ```
 running status will prompt if you want to install the version specified in the `.hvm` file.
 
-If the installation process is too complicated install Hugo instead but be sure to install the specific version `v0.147.9`. Be sure to use the extended version (`hugo_extended`);
+If the installation process is too complicated install Hugo instead but be sure to install the specific version `v0.147.5`. Be sure to use the extended version (`hugo_extended`);
 
 3. To run locally
 
