@@ -1,9 +1,13 @@
-.slides section h2 {
-    color: forestgreen;
+.slides section h2, .slides section h3 {
+    color: limegreen;
 }
 
 
 .green{
-    color: forestgreen;
+    color: limegreen;
+}
+
+.limegreen{
+    color: limegreen;
 }
 
