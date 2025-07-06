@@ -4,7 +4,7 @@ date = 2025-06-26T07:32:56.813Z
 draft = true
 description = "How to be saved"
 summary = "Do you know where you are going after leaving this life on Earth."
-tags = ["tracts"]
+tags = ["tracts", "gospel"]
 
 [slides]
   theme = "white"
@@ -18,13 +18,26 @@ It is important to know that good works **cannot** save us.
 
 {{< fragment >}}
 "For by grace are ye **saved** through faith; and that not of yourselves: it is the **gift** of God:
-{{< /fragment >}}
 
-{{< fragment >}}
-Not of works, lest any man should boast." <br/> 
+**Not** of works, lest any man should boast." <br/> 
 — Ephisians 2:8-9
 {{< /fragment >}}
 
+---
+
+Good works are good but they can't save us.
+
+Dont think that you need to keep doing this work... to be saved.
+
+---
+
+Only the faith in Jesus saves. 
+
+Jesus has done everything and no one else can cover our sins.
+
+---
+
+Here are steps that we can do in order to be saved.
 
 ---
 
@@ -33,6 +46,10 @@ Not of works, lest any man should boast." <br/>
 ---
 
 **A**dmit that you're a Sinner
+
+---
+
+We admit to God that we are a sinner and allow God to renew us.
 
 ---
 
@@ -48,6 +65,10 @@ Not of works, lest any man should boast." <br/>
 
 ---
 
+This is trusting in Jesus Christ will all your heart that he died and paid for our sins. 
+
+---
+
 "That if thou shalt confess with thy mouth the Lord Jesus, and shalt **believe** in thine heart that God hath raised him from the dead, thou shalt be saved."
 
 — Romans 10:9
@@ -60,6 +81,10 @@ Not of works, lest any man should boast." <br/>
 ---
 
 **C**all Upon the name of the Lord
+
+---
+
+Trust in Jesus Christ as your personal Lord and Savior.
 
 ---
 "For whosoever shall call upon the name of the Lord shall be saved.
