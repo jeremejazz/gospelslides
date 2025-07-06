@@ -65,7 +65,7 @@ From the Bible you see that God loves you and wants you to enjoy the abundant li
 
 {{< fragment >}}
 
-<span class="yellowgreen">Because . . .</span>
+<span class="yellowgreen">Because ...</span>
 
 Man is a sinner and sin has separated him from God. God created man His image and gave him an abundant life. He did not make him as a puppet on a string to love and obey Him automatically; but gave him a will and freedom of choice.
 
@@ -106,7 +106,7 @@ Man through the ages has tried to bridge the gap which separates himself from Go
 
 ---
 
-## THIRD . . .
+## THIRD ...
 
 God's remedy for sin is Jesus Christ crucified.
 
@@ -164,7 +164,7 @@ It is not enough to discover that God loves you and has a plan for your life . .
 
 ---
 
-## FOURTH . . .
+## FOURTH ...
 
 You must receive Christ as your personal Lord and Saviour.
 
@@ -208,7 +208,7 @@ Is there any good reason why you cannot receive Jesus Christ right now?
 
 {{< slide transition="slide-in fade-out"  >}}
 
-<span class="yellowgreen">It's really very simple, much like taking . . .</span>
+<span class="yellowgreen">It's really very simple, much like taking ...</span>
 
 ---
 
@@ -283,7 +283,7 @@ Eternal life is a gift and cannot be earned. It is a part of God's wonderful pla
 {{< slide background="yellowgreen"  >}}
 
 Many people wonder about feelings.
-## FEELINGS CHANGE . . .
+## FEELINGS CHANGE ...
 
 but God and His Word will never change. We are to live by faith, (trusting in the promises of God found in the Bible). For without faith, it is impossible to please God.
 
@@ -334,7 +334,7 @@ Here's what the Bible teaches about Baptism!
 
 ### Why?
 
-Because...
+Because ...
 
   1. God commands it. (Matthew 28:19-20)
   2. Jesus was baptized. (Mark 1:9-11)
@@ -345,7 +345,7 @@ Because...
 
 ### How?
 
-By Immersion in Water, because...
+By Immersion in Water, <br/>because ...
 
   1. Jesus was immersed.
   (Matthew 3:13-17; Mark 1:9-11)
@@ -364,7 +364,7 @@ You can see from the Bible the why, how, and when of baptism. This is part of Go
 
 ---
 
-Here is what the Bible teaches about...
+Here is what the Bible teaches about ...
 ## the Church!
 
 ---
