@@ -12,7 +12,9 @@ tags = ["tracts"]
 # scanned images -60 brightness, +55 contrast
 +++
 
-*The following presentation is still a work in progress*
+*The following content is currently a work in progress*
+
+<a class="fsbutton" href="#">Click to Toggle Fullscreen</a>
 
 ---
 
