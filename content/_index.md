@@ -1,5 +1,5 @@
 +++
-title = "Gospel Slides"
+title = ""
 description = "Good news today in slides."
 draft=false
 # highlight_theme = "color-brewer"
@@ -8,6 +8,8 @@ draft=false
 
 +++
 
+# Welcome to Gospel Slides
+
 Read the Good News today!
 
-*(This website is currently a work in progress and is still under draft. Feel free to leave your suggestions [here](https://github.com/jeremejazz/gospelslides/issues) )*
+*( 🔨This website is currently is still under development. If you have any suggestions, feel free to leave theme [here](https://github.com/jeremejazz/gospelslides/issues) )*  

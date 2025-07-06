@@ -212,6 +212,8 @@ Is there any good reason why you cannot receive Jesus Christ right now?
 
 ---
 
+{{< slide transition="fade-in slide-out"  >}}
+
 ## FOUR STEPS
 
 <ul>
@@ -332,7 +334,7 @@ Here's what the Bible teaches about Baptism!
 
 ### Why?
 
-Because . . .
+Because...
 
   1. God commands it. (Matthew 28:19-20)
   2. Jesus was baptized. (Mark 1:9-11)
@@ -343,7 +345,7 @@ Because . . .
 
 ### How?
 
-By Immersion in Water, because . . .
+By Immersion in Water, because...
 
   1. Jesus was immersed.
   (Matthew 3:13-17; Mark 1:9-11)
@@ -362,7 +364,7 @@ You can see from the Bible the why, how, and when of baptism. This is part of Go
 
 ---
 
-Here is what the Bible teaches about . . .
+Here is what the Bible teaches about...
 ## the Church!
 
 ---
