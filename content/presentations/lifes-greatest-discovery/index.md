@@ -215,6 +215,8 @@ On which side would you like to be?**
 
 ---
 
+{{< slide transition="slide-in fade-out" transition-speed="fast"  >}}
+
 <span class="green">Here's how you can personally receive Christ.</span>
 
 {{< fragment >}}
@@ -231,16 +233,16 @@ Trust Jesus and receive Him by personal invitation.
 *For whosoever shall call upon the name of the Lord shall be saved* — Romans 10:13.
 {{< /fragment >}}
 
-<p></p>
-{{< fragment >}}
-*Behold I stand at the door and knock. If any man hear My voice, and open the door I will come in to him* — Revelation 3:20.
-{{< /fragment >}}
-
 ---
 
+{{< slide transition="fade-in slide-out" transition-speed="fast"  >}}
+
+*Behold I stand at the door and knock. If any man hear My voice, and open the door I will come in to him* — Revelation 3:20.
+
+{{< fragment >}}
 Jesus is seeking entrance into your life at this moment.
 Is there any good reason why you cannot receive Jesus Christ right now?
-
+{{< /fragment >}}
 
 ---
 
