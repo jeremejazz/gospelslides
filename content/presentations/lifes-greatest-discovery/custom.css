@@ -13,3 +13,9 @@
 .slides section h2, .slides section h3, .slides section h4, .slides section h5 {
     text-transform: none;
 }
+
+@media screen and (max-width: 480px) {
+    .reveal table{
+        width: 90%;
+    }
+}

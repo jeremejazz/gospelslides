@@ -1,5 +1,5 @@
 +++
-title = "[Draft] Life's Greatest Discovery"
+title = "Life's Greatest Discovery"
 date = 2025-07-03T12:34:35+08:00
 draft = true
 description = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."
@@ -407,7 +407,7 @@ Because ...
 <ol>
   {{< fragment >}}<li>God commands it. (Matthew 28:19-20)</li>{{< /fragment >}}
   {{< fragment >}}<li>Jesus was baptized. (Mark 1:9-11)</li>{{< /fragment >}}
-  {{< fragment >}}<li>Baptism illustrates our salvation (I Corinthians 15:1-4; Romans 6:3-5)</li>{{< /fragment >}}
+  {{< fragment >}}<li>Baptism illustrates our salvation </br>(I Corinthians 15:1-4; Romans 6:3-5)</li>{{< /fragment >}}
 </ol>
 
 ---
@@ -416,18 +416,22 @@ Because ...
 
 By Immersion in Water, <br/>because ...
 
-  1. Jesus was immersed.
-  (Matthew 3:13-17; Mark 1:9-11)
-  2. The Greek work baptizo means immersion.
-  3. The early church immersed.
-  (Acts 2:41; 8:35-39)
+<ol>
+  {{< fragment >}}<li>Jesus was immersed. (Matthew 3:13-17; Mark 1:9-11)</li>{{< /fragment >}}
+  {{< fragment >}}<li>The Greek work <em>baptizo</em> means immersion.</li>{{< /fragment >}}
+  {{< fragment >}}<li>The early church immersed. (Acts 2:41; 8:35-39)</li>{{< /fragment >}}
+</ol>
 
 ---
 
 ### When?
 
-1. After Conversion. (Acts 8:35-39)
-2. At your first opportunity. (Acts 8:36; 16:25-34)
+<ol>
+  {{< fragment >}}<li>After Conversion. (Acts 8:35-39)</li>{{< /fragment >}}
+  {{< fragment >}}<li>At your first opportunity. (Acts 8:36; 16:25-34)</li>{{< /fragment >}}
+</ol>
+
+---
 
 You can see from the Bible the why, how, and when of baptism. This is part of God's plan for you and you should follow Christ in believer's baptism as soon as possible.
 
@@ -438,9 +442,14 @@ Here is what the Bible teaches about ...
 
 ---
 
+{{< slide transition="slide-in fade-out" >}}
+
 The Bible commands us to attend church regularly. (Hebrews 10:25). You need to meet with others who have trusted the Lord Jesus Christ and be taught from the Bible. You need the church for several reasons: worship, teaching, fellowship, counsel.
 
 ---
+
+{{< slide transition="fade-in slide-out" >}}
+
 <table>
 <tr>
 <td><img src="https://res.cloudinary.com/jereme/image/upload/v1751807187/gospelslides/lifes-greatest-discovery/08-bonfire.jpg" alt="Bonfire">
@@ -451,12 +460,13 @@ The Bible commands us to attend church regularly. (Hebrews 10:25). You need to m
 </tr>
 </table>
 
-
+{{< fragment >}}
 Several logs burn brightly together, but put one aside on the cold hearth and the fire goes out. 
-
+{{< /fragment >}}
 
 
 ---
+
 So it is with your relationship to other Christians. You need to belong to a Bible-believing church. Do not wait to be invited. Take the initiative; call the pastor of a nearby church where Christ is honored and His Word is preached. Start this week, and make plans to attend regularly.
 
 
