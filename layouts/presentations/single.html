@@ -26,6 +26,8 @@ https://github.com/joshed-io/reveal-hugo
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
 
     <style>
+      /* Disable accidentally clicking on revealJS pointer */
+      .progress { pointer-events: none; }
 
 /*
  * Media query for screens with a maximum width of 768px (common tablet portrait/mobile landscape breakpoint)
@@ -45,8 +47,11 @@ https://github.com/joshed-io/reveal-hugo
  
   top: 35% !important;
  
-}
+  }
 
+  .reveal img, .reveal video, .reveal iframe{
+    width: 80%;
+  }
  
 }
 
@@ -67,6 +72,10 @@ https://github.com/joshed-io/reveal-hugo
  
   top: 40% !important;
  
+  }
+
+  .reveal img, .reveal video, .reveal iframe{
+    width: 80%;
   }
 }
 
