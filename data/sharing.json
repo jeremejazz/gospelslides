@@ -1,6 +1,6 @@
 {
   "email": {
-    "icon": "email",
+    "icon": "envelope",
     "title": "sharing.email",
     "url": "mailto:?body=%s&subject=%s"
   },
