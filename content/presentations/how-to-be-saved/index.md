@@ -1,5 +1,5 @@
 +++
-title = "[Draft] How to be Saved"
+title = "How to be Saved"
 date = 2025-06-26T07:32:56.813Z
 draft = true
 description = "How to be saved"

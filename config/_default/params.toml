@@ -104,7 +104,7 @@ smartTOCHideUnfocusedChildren = false
 
 [taxonomy]
   showTermCount = true
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
@@ -113,12 +113,12 @@ smartTOCHideUnfocusedChildren = false
   cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
