@@ -1,0 +1,2 @@
+# allow organizing presentations into folders
+presentations = "presentations/:slugorcontentbasename"
