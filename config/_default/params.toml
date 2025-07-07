@@ -23,7 +23,8 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
+defaultFeaturedImage = "/img/default-featured.jpg"
+# defaultFeaturedImage = "/img/featured.svg"
 defaultSocialImage = "/img/gospelslides_logo.jpg"
 
 highlightCurrentMenuArea = true
