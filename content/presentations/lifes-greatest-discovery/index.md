@@ -1,6 +1,7 @@
 +++
 title = "Life's Greatest Discovery"
 date = 2025-07-03T12:34:35+08:00
+lastMod = "2025-07-06"
 draft = false
 description = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."
 summary = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."

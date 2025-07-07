@@ -88,6 +88,14 @@ In your browser, run `localhost:1313` which should be also indicated in the term
 
 ## Creating new content
 
+
+### New Article 
+
+```sh
+
+hugo new content article/article-name/index.md
+```
+
 ### New Presentation
 ```sh
 hugo new content presentations/your-slideshow/index.md
@@ -99,4 +107,16 @@ hugo new content presentations/your-slideshow/index.md
 hugo new content pagename.md
 ```
 
+
+## Front Matter
+
+```toml
+[reveal_hugo]
+  custom_css="" # permalink to css file
+  theme = "white" # any of the hugo themes
+
+languageCode = "en" # language code
+
+
+```
 

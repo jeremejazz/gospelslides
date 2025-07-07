@@ -8,7 +8,7 @@ https://github.com/joshed-io/reveal-hugo
 
 -->
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode | default "en-us" }}">  
+<html lang="{{ .Params.LanguageCode | default site.LanguageCode | default "en-us" }}">  
   <head>
       {{/* Asset versions */}}
     {{- $reveal_location := $.Param "reveal_hugo.revealLocation" | default "reveal-js" -}}
