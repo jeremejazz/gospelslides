@@ -24,7 +24,7 @@ disableTextInHeader = false
 
 defaultBackgroundImage = "/img/background.svg"
 defaultFeaturedImage = "/img/featured.svg"
-defaultSocialImage = "/img/blowfish.jpg"
+defaultSocialImage = "/img/gospelslides_logo.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -57,7 +57,7 @@ smartTOCHideUnfocusedChildren = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = false
   # showAuthorBottom = false
   showHero = false

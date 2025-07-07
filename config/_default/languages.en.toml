@@ -8,7 +8,7 @@ title = "Gospel Slides"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = ""
+  logo = "img/gospelslides_logo.jpg"
   description = "A powerful, lightweight theme for Hugo."
 
 # [params.author]
