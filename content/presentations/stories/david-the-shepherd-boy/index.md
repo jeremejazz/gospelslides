@@ -7,6 +7,7 @@ tags = ["stories"]
 [reveal_hugo]
   theme = "serif"
   custom_css = "custom.css"
+  checkOrientation = true
 +++
 
 bibleforchildren.org
