@@ -175,9 +175,7 @@ Goliath laughed when he was that young David wasn't even wearing armor. "I will 
 
 {{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/13-goliath-struck.jpg" >}}
 
-Then David ran straight toward Goliath. As he ran, he fired one stone from his sling - right into Goliath's forehead.
-
-Goliath fell.
+Then David ran straight toward Goliath. As he ran, he fired one stone from his sling - right into Goliath's forehead. Goliath fell!
 
 ---
 
