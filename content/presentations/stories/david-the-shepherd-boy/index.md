@@ -4,6 +4,7 @@ date = 2025-07-07T18:56:54+08:00
 draft = true
 summary= "David the Shepherd Boy. A story from God's Word, the Bible found in 1 Samuel 16-20"
 tags = ["stories"]
+categories = ["Stories for Children"]
 [reveal_hugo]
   theme = "serif"
   custom_css = "custom.css"
@@ -17,46 +18,36 @@ PRESENTS
 ---
 
 ## David the Shepherd Boy
+---
+
+{{< slide class="fill-section" background-image="https://res.cloudinary.com/jereme/image/upload/v1751971746/gospelslides/stories/david-the-shepherd-boy/01-shepherd-david.jpg" transition="slide-in fade-out"  >}}
 
 ---
 
-{{< slide transition="slide-in fade-out" transition-speed="fast"  >}}
+{{< slide class="fill-section" background-image="https://res.cloudinary.com/jereme/image/upload/v1751971746/gospelslides/stories/david-the-shepherd-boy/01-shepherd-david.jpg" transition="fade-in slide-out"   >}}
 
 
 Long ago in the days of King Saul of Israel, a boy named David helped his
 seven brothers look after their father's flocks. 
 
-
-<img src="https://res.cloudinary.com/jereme/image/upload/v1751891695/gospelslides/stories/david-the-shepherd-boy/01-shepherd-david.jpg" alt="David watches over the flocks.">
-
-
----
-
-{{< slide transition="fade-in slide-out" transition-speed="fast"  >}}
-
 Though he was youngest, David was a strong, brave boy who loved anbd trusted God. He lived in the town of Bethlehem.
+ 
 
-<img src="https://res.cloudinary.com/jereme/image/upload/v1751891695/gospelslides/stories/david-the-shepherd-boy/01-shepherd-david.jpg" alt="David watches over the flocks.">
+---
+
+{{< slide class="fill-section" background-image="https://res.cloudinary.com/jereme/image/upload/v1751891629/gospelslides/stories/david-the-shepherd-boy/02-lion.jpg"  >}}
 
 
 ---
 
-{{< slide transition="slide-in fade-out" transition-speed="fast"  >}}
+{{< slide class="fill-section" background-image="https://res.cloudinary.com/jereme/image/upload/v1751891629/gospelslides/stories/david-the-shepherd-boy/02-lion.jpg" transition="fade-in slide-out" >}}
 
 Once a lion attacked the flock to snatch a little lamb for supper. <br/>Young David attacked the attacker. 
 
-<img src="https://res.cloudinary.com/jereme/image/upload/v1751891629/gospelslides/stories/david-the-shepherd-boy/02-lion.jpg" alt="A lion attacks!" width="80%" >
-
----
-
-{{< slide transition="fade-in slide-out" transition-speed="fast"  >}}
-
 Pulling the lamb away, he grabbed the snarling beast by its beard and killed it. David knew God had helped him.
 
-<img src="https://res.cloudinary.com/jereme/image/upload/v1751891629/gospelslides/stories/david-the-shepherd-boy/02-lion.jpg" alt="A lion attacks!" width="80%" >
-
-
 ---
+
 
 {{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751957248/gospelslides/stories/david-the-shepherd-boy/03-samuel.jpg" >}}
 
@@ -95,17 +86,21 @@ And the LORD said, "Arise, anoint him; for this is the one."
 
 {{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751959069/gospelslides/stories/david-the-shepherd-boy/06-king-saul.jpg" >}}
 
-
-
 In Saul's palace, the Spirit of the LORD departed from Saul and he became a very troubled man. His servants thought good music might settle Saul's mind. One of them knew a young man who played the harp well. Can you guess who that man was? Yes, David.
 
 ---
+
+
+{{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/07-david-harp.jpg" >}}
+
 
 David's music soothed Saul and helped him to think straight. 
 Saul asked Jesse to let David stay in the King's service. 
 Whenever Saul had an attack of depression or fear, David played the harp for him. It helped.
 
 ---
+
+{{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/08-field.jpg" >}}
 
 After David went home, Saul had a big battle with the Philistines. 
 David's brothers fought in Saul's armies. Jesse sent David to the battle front to take food to his brothers and find out how they were.
