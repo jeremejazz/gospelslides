@@ -107,21 +107,51 @@ David's brothers fought in Saul's armies. Jesse sent David to the battle front t
 
 ---
 
-A HUGE Philistine giant, Goliath, had scared all the Israelite soldiers.
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/09-enter-goliath.jpg" >}}
 
 ---
 
 
+{{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/09-enter-goliath.jpg" >}}
+
+A HUGE Philistine giant, Goliath, had scared all the Israelite soldiers.
+
+---
+
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/10-israelites-fled.jpg" >}}
+
+---
+
+{{< slide class="fill-section" transition="fade-in fade-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/10-israelites-fled.jpg" >}}
+
+
 "Choose a man for yourselves, and let him come down to me!" Goliath shouted. "If he is able to fight with me and kill me, then we will be your servants. But if I kill him, then you shall be our servants and serve us."
+
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751972606/gospelslides/stories/david-the-shepherd-boy/10-israelites-fled.jpg" >}}
+
 
 All the men of Israel, when they saw the giant, fled from him and were dreadfully afraid.
 
 ---
 
+{{< slide class="fill-section" transition="slide-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751973552/gospelslides/stories/david-the-shepherd-boy/11-five-smooth-stones.jpg" >}}
+
+
+
 Then David said to Saul, "Let no man's heart fail because of him; your servant will go and fight with this Philistine." Saul wanted David to wear armor and carry a sword. Instead, David took his sling and picked five smooth stones from the brook.
+
+---
+
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/12-goliath-laughs.jpg" >}}
 
 
 ---
+
+{{< slide class="fill-section" transition="fade-in fade-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/12-goliath-laughs.jpg" >}}
+
+
 
 Goliath laughed when he was that young David wasn't even wearing armor. "I will give your flesh to the birds of the air and the beasts of the field!" he roared. 
 
@@ -129,11 +159,25 @@ Goliath laughed when he was that young David wasn't even wearing armor. "I will 
 
 ---
 
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/12-goliath-laughs.jpg" >}}
+
+---
+
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/13-goliath-struck.jpg" >}}
+
+
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/13-goliath-struck.jpg" >}}
+
 Then David ran straight toward Goliath. As he ran, he fired one stone from his sling - right into Goliath's forehead.
 
 Goliath fell.
 
 ---
+
+{{< slide class="fill-section"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/14-head-of-goliath.jpg" >}}
+
 
 David quickly drew Goliath's huge sword and cut off his head.
 
