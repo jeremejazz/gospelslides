@@ -10,6 +10,5 @@ draft=false
 
 # Welcome to Gospel Slides
 
-Read the Good News today!
+Digital tracts and stories in presentation!
 
-*( 🔨This website is currently is still under development. If you have any suggestions, feel free to leave theme [here](https://github.com/jeremejazz/gospelslides/issues) )*  

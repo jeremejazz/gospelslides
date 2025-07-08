@@ -5,7 +5,8 @@ lastMod = "2025-07-06"
 draft = false
 description = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."
 summary = "God had a plan when He designed the universe in which we live. He also had a plan when he designed you."
-tags = ["tracts", "gospel"]
+tags = ["gospel"]
+categories = ["tracts"]
 [reveal_hugo]
   theme = "forest"
   custom_css = "custom.css"

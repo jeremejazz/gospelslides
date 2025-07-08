@@ -25,98 +25,8 @@ https://github.com/joshed-io/reveal-hugo
 
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
 
-    <style>
-      /* Disable accidentally clicking on revealJS pointer */
-      .progress { pointer-events: none; }
-
-/*
- * Media query for screens with a maximum width of 768px (common tablet portrait/mobile landscape breakpoint)
- * and in portrait orientation.
- * This targets most mobile phones and smaller tablets when held vertically.
- */
-@media screen and (max-width: 768px) and (orientation: portrait) {
-  html {
-    font-size: 32px; /* Increase base font size for portrait mobile/small tablet */
-  }
-
-  .reveal section{
-    font-size: 1.4em;   /* Paragraphs and list items will scale with the base */
-  }
-
-  .reveal .slides {
- 
-  top: 35% !important;
- 
-  }
-
-  .reveal img, .reveal video, .reveal iframe{
-    width: 80%;
-  }
- 
-}
-
-/*
- * Optional: A more general mobile-first approach for all orientations on small screens.
- * This ensures larger text on small screens regardless of orientation,
- * then the portrait-specific rule above can further fine-tune.
- */
-@media screen and (max-width: 480px) {
-  html {
-    font-size: 32px; /* Slightly larger base font for very small screens (phones) */
-  }
-  .reveal section{
-    font-size: 1.6em;   /* Paragraphs and list items will scale with the base */
-  }
-
-  .reveal .slides {
- 
-  top: 30% !important;
- 
-  }
-
-  .reveal img, .reveal video, .reveal iframe{
-    width: 80%;
-  }
-}
-
-/* for Iphone SE screen size or similar */
-@media screen and (max-width: 480px) and (max-height: 667px) {
- 
-    .reveal .slides {
-  
-    top: 35% !important;
-  
-   }
-}
-
-  /* Social Icons */
-  .flex-col {
-    flex-direction: column;
-  }
-  .flex-row {
-    flex-direction: row;
-  }
-  .flex-wrap {
-    flex-wrap: wrap;
-  }
-  .items-center {
-    align-items: center;
-  }
-  .items-end {
-    align-items: flex-end;
-  }
-  .justify-between {
-    justify-content: space-between;
-  }
-  .justify-center {
-    justify-content: center;
-  }
-  
-  .icon svg {
-    height: 1em;
-    width: 1em;
-  }
-    </style>
+    {{ $cssPresentations := resources.Get "css/presentations.css" | minify }}
+    <link rel="stylesheet" type="text/css" href="{{ $cssPresentations.RelPermalink }}">
   {{ partial "presentations/theme" . -}}
   </head>
 
@@ -155,25 +65,17 @@ https://github.com/joshed-io/reveal-hugo
     {{/* Load Reveal and built-in plugins. */}}
   <script src="{{ $reveal_location }}/dist/reveal.js"  ></script>
   <script src="{{ $reveal_location }}/plugin/fsfx/fsfx.js" ></script>
-  <!--
+  <script>
+    Reveal.initialize({
+    {{ if hugo.IsDevelopment }}
+      // Enable hash navigation only during development for easier debugging
+      hash: true,
+    {{ end }}
+      scrollActivationWidth: null,
+      plugins: [ FsFx ],
+    });
+  </script>
+  {{ partial "presentations/orientation" . -}}
 
-    <script src="{{ $reveal_location }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
-    <script src="{{ $reveal_location }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
-    <script src="{{ $reveal_location }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
-    <script src="{{ $reveal_location }}/plugin/math/math.min.js" crossorigin="anonymous"></script> 
-    <script src="{{ $reveal_location }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
-  -->
-
-
-    <script>
-      Reveal.initialize({
-      {{ if hugo.IsDevelopment }}
-        // Enable hash navigation only during development for easier debugging
-        hash: true,
-      {{ end }}
-        scrollActivationWidth: null,
-        plugins: [ FsFx ],
-      });
-    </script>
 </body>
 </html>

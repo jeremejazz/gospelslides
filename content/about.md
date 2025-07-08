@@ -6,6 +6,5 @@ showRelatedContent = false
 sharingLinks = false
 +++
 
-Sharing the good news one slide at a time.
 
 

@@ -1,0 +1,51 @@
+{{ with $.Param "reveal_hugo.checkOrientation" }}
+
+<div id="orientation-popup">
+  <!-- Animated phone SVG -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <rect x="16" y="8" width="32" height="48" rx="4" ry="4" fill="#fff" stroke="#00bcd4" stroke-width="2"/>
+    <circle cx="32" cy="52" r="2" fill="#00bcd4"/>
+  </svg>
+
+  <h2>For best experience, rotate your device</h2>
+  <p>This presentation is optimized for landscape mode.</p>
+  <button id="dismiss-btn">OK, continue</button>
+</div>
+
+<script>
+  const popup = document.getElementById('orientation-popup');
+  const dismissBtn = document.getElementById('dismiss-btn');
+  let userDismissed = false;
+
+  // Simple mobile/tablet detection
+  function isMobileDevice() {
+    return (
+      'ontouchstart' in window &&
+      /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent)
+    );
+  }
+
+  function checkOrientation() {
+    const isPortrait = window.innerHeight > window.innerWidth;
+
+    if (isMobileDevice() && isPortrait && !userDismissed) {
+      popup.classList.add('show');
+    } else {
+      popup.classList.remove('show');
+    }
+  }
+
+  // Initial check
+  checkOrientation();
+
+  // Listen for orientation/resize change
+  window.addEventListener('resize', checkOrientation);
+  window.addEventListener('orientationchange', checkOrientation);
+
+  // Dismiss button
+  dismissBtn.addEventListener('click', () => {
+    userDismissed = true;
+    popup.classList.remove('show');
+  });
+</script>
+{{ end }}

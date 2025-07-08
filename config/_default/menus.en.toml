@@ -16,9 +16,22 @@
   weight = 10
 
 [[main]]
+  name = "Tracts"
+  parent = "Presentations"
+  pageRef = "categories/tracts"
+  weight = 20
+
+[[main]]
+  name = "Stories for Children"
+  parent = "Presentations"
+  pageRef = "categories/stories-for-children"
+  weight = 40
+
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 50
 
 # [[main]]
 #   identifier = "search"

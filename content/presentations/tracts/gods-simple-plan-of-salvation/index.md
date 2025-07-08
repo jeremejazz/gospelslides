@@ -5,8 +5,8 @@ lastMod = "2025-07-06"
 description = "This is the most important question of life. Your joy or sorrow for all eternity depends on your answer"
 summary = "This is the most important question of life. Your joy or sorrow for all eternity depends on your answer"
 draft= false
-tags = ["tracts", "gospel"]
-
+tags = [ "gospel"]
+categories = ["tracts"]
 [reveal_hugo]
   theme = "white"
   custom_css = "custom.css"
