@@ -1,7 +1,7 @@
 +++
 title = "David the Shepherd Boy"
 date = 2025-07-07T18:56:54+08:00
-draft = true
+draft = false
 summary= "David the Shepherd Boy. A story from God's Word, the Bible found in 1 Samuel 16-20"
 tags = ["stories"]
 categories = ["Stories for Children"]
@@ -11,11 +11,15 @@ categories = ["Stories for Children"]
   checkOrientation = true
 +++
 
-bibleforchildren.org
+{{< slide id="title" background-color="#424242" >}}
 
-PRESENTS
+Bible for Children
+
+presents
 
 ---
+
+{{< slide id="title" background-color="#424242" >}}
 
 ## David the Shepherd Boy
 ---
@@ -183,14 +187,104 @@ David quickly drew Goliath's huge sword and cut off his head.
 
 When the Philistines saw Goliath dead, they ran for their lives.
 
+---
+
+
+{{< slide class="fill-section"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/15-sauls-envy.jpg" >}}
+
+
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out"   background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/15-sauls-envy.jpg" >}}
+
+
+King Saul did not remember that this was the same David who had soothed him with the harp. He put David in charge of his army - then got jealous when the people honored David's victories.
+
+"Now what more can he have but the kingdom?" Saul thought. So Saul eyed David from that day forward.
+
+---
+
+{{< slide  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/16-sauls-attempt.jpg" >}}
+
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/16-sauls-attempt.jpg" >}}
+
+Again, King Saul's mind was troubled. So David played music to try and soothe him. Three times Saul threw his spear at David. But David escaped each time.
+
+{{< fragment >}}
+
+Saul was afraid of David because he knew the LORD was with him, but had departed from Saul.
+
+{{< /fragment >}}
+
+---
+
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/17-davids-escape.jpg" >}}
+
+---
+
+{{< slide class="fill-section" transition="fade-in fade-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/17-davids-escape.jpg" >}}
+
+
+But Jonathan, Saul's son, loved David as a brother. "My father Saul seeks to kill you," he warned David. So David escaped. His wife put a dummy in his bed, and let David down from the window in the middle of the night. 
+
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/17-davids-escape.jpg" >}}
+
+
+When Saul's men came in the morning, David was gone.
+
+---
+
+{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/18-david-and-jonathan.jpg" >}}
+
+---
+
+{{< slide class="fill-section" transition="fade-in fade-out"   background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/18-david-and-jonathan.jpg" >}}
+
+David had to flee far away from Saul. Before he did, he and Jonathan made a covenant together. They promised they would always help each other.
+
+---
+
+{{< slide class="fill-section"  transition="fade-in slide-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/18-david-and-jonathan.jpg" >}}
+
+Sadly, the two friends said goodbye. David set out to find a place where he could live without fear of Saul's soldiers finding him.
+
+
+
+---
+
+David the Shepherd Boy
+
+A story from God's Word, the Bible 
+
+is found in
+
+1 Samuel 16-20
+
+
+"The entrance of thy words giveth light; it giveth understanding unto the simple"  <br/> Psalm 119:130
+
 
 
 ---
 
 The End
 
----
-
 Source 
 
-https://bibleforchildren.org
+[https://bibleforchildren.org](https://bibleforchildren.org/languages/english/stories.php)
+
+---
+
+[Return to Title](#title) | [Go to Homepage](/)
+
+
+Share:
+
+{{< sharing >}}
+
+
+---
