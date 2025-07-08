@@ -2,6 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
+# Configure title at languages.en.toml
+
 theme = "blowfish"
 baseURL = "https://localhost:1313"
 defaultContentLanguage = "en"
@@ -25,12 +27,6 @@ enableEmoji = true
 
 [imaging]
   anchor = 'Center'
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
 
 [sitemap]
   changefreq = 'always'
