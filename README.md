@@ -1,10 +1,70 @@
 # Gospel Slides
 
-Sharing gospel tracts with RevealJS Slides.
+Sharing gospel tracts and stories with implementation of [RevealJS](https://revealjs.com).
 
-This site uses the [blowfish](https://github.com/nunocoracao/blowfish) theme while also 
-implementing some code copied from Hugo Blox Builder and reveal-hugo.
+This site is powered by Hugo and is using [blowfish](https://github.com/nunocoracao/blowfish) theme and also implementing [Hugo Blox Builder Slides](https://github.com/HugoBlox/hugo-blox-builder) and [reveal-hugo](https://github.com/joshed-io/reveal-hugo).
 
+
+## Setup
+
+1. Clone the repository
+
+```sh
+git clone https://github.com/jeremejazz/gospelslides.git
+
+```
+
+2. Install [hvm](https://github.com/jmooring/hvm)
+Then run the following
+```sh
+cd gospelslides
+hvm status  
+```
+running status will prompt if you want to install the version specified in the `.hvm` file.
+
+If the installation process is too complicated install Hugo instead but be sure to install the specific version `v0.147.5`. Be sure to use the extended version (`hugo_extended`);
+
+3. To run locally
+
+```
+hugo server -D 
+```
+
+`-D` flag is optional to render draft content. 
+
+In your browser, run `localhost:1313` which should be also indicated in the terminal.
+
+## Creating new content
+
+
+### New Article 
+
+```sh
+
+hugo new content article/article-name/index.md
+```
+
+### New Presentation
+```sh
+hugo new content presentations/your-slideshow/index.md
+```
+
+### New Page
+
+```
+hugo new content pagename.md
+```
+
+
+### Front Matter
+
+```toml
+[reveal_hugo]
+  custom_css="" # permalink to css file. # TODO needs to be filename not permalink
+  theme = "white" # refer to the filenames in static/lib/reveal-js/dist/theme
+
+languageCode = "en" # language code
+```
 
 ## Presentations
 
@@ -58,65 +118,6 @@ Customize the current slide
 # Hello, world!
 
 ---
-
-```
-
-
-
-
-
-## Setup
-
-1. Clone the repository
-
-2. Install [hvm](https://github.com/jmooring/hvm)
-Then run the following
-```sh
-hvm status  
-```
-running status will prompt if you want to install the version specified in the `.hvm` file.
-
-If the installation process is too complicated install Hugo instead but be sure to install the specific version `v0.147.5`. Be sure to use the extended version (`hugo_extended`);
-
-3. To run locally
-
-```
-hugo server -D 
-```
-
-In your browser, run `localhost:1313` which should be also indicated in the terminal.
-
-## Creating new content
-
-
-### New Article 
-
-```sh
-
-hugo new content article/article-name/index.md
-```
-
-### New Presentation
-```sh
-hugo new content presentations/your-slideshow/index.md
-```
-
-### New Page
-
-```
-hugo new content pagename.md
-```
-
-
-## Front Matter
-
-```toml
-[reveal_hugo]
-  custom_css="" # permalink to css file
-  theme = "white" # any of the hugo themes
-
-languageCode = "en" # language code
-
 
 ```
 
