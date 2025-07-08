@@ -1,6 +1,7 @@
 +++
 title = "David the Shepherd Boy"
 date = 2025-07-07T18:56:54+08:00
+lastMod = 2025-07-08
 draft = false
 summary= "David the Shepherd Boy. A story from God's Word, the Bible found in 1 Samuel 16-20"
 tags = ["stories"]
