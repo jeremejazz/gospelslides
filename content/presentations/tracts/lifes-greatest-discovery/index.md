@@ -8,7 +8,7 @@ summary = "God had a plan when He designed the universe in which we live. He als
 tags = ["tracts", "gospel"]
 [reveal_hugo]
   theme = "forest"
-  custom_css = "/presentations/lifes-greatest-discovery/custom.css"
+  custom_css = "custom.css"
 
 # scanned images -60 brightness, +55 contrast
 +++
