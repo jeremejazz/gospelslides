@@ -1,0 +1,144 @@
+    /* Disable accidentally clicking on revealJS pointer */
+      .progress { pointer-events: none; }
+
+/*
+ * Media query for screens with a maximum width of 768px (common tablet portrait/mobile landscape breakpoint)
+ * and in portrait orientation.
+ * This targets most mobile phones and smaller tablets when held vertically.
+ */
+@media screen and (max-width: 768px) and (orientation: portrait) {
+  html {
+    font-size: 32px; /* Increase base font size for portrait mobile/small tablet */
+  }
+
+  .reveal section{
+    font-size: 1.4em;   /* Paragraphs and list items will scale with the base */
+  }
+
+  .reveal .slides {
+ 
+  top: 35% !important;
+ 
+  }
+
+  .reveal img, .reveal video, .reveal iframe{
+    width: 80%;
+  }
+ 
+}
+
+/*
+ * Optional: A more general mobile-first approach for all orientations on small screens.
+ * This ensures larger text on small screens regardless of orientation,
+ * then the portrait-specific rule above can further fine-tune.
+ */
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 32px; /* Slightly larger base font for very small screens (phones) */
+  }
+  .reveal section{
+    font-size: 1.6em;   /* Paragraphs and list items will scale with the base */
+  }
+
+  .reveal .slides {
+ 
+  top: 30% !important;
+ 
+  }
+
+  .reveal img, .reveal video, .reveal iframe{
+    width: 80%;
+  }
+}
+
+/* for Iphone SE screen size or similar */
+@media screen and (max-width: 480px) and (max-height: 667px) {
+ 
+    .reveal .slides {
+  
+    top: 35% !important;
+  
+   }
+}
+
+  /* Social Icons */
+  .flex-col {
+    flex-direction: column;
+  }
+  .flex-row {
+    flex-direction: row;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .items-end {
+    align-items: flex-end;
+  }
+  .justify-between {
+    justify-content: space-between;
+  }
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .icon svg {
+    height: 1em;
+    width: 1em;
+  }
+
+   /* Popup styles */
+    #orientation-popup {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      top: 0; left: 0;
+      width: 100vw; height: 100vh;
+      background-color: rgba(0, 0, 0, 0.85);
+      color: white;
+      text-align: center;
+      padding: 2em;
+      box-sizing: border-box;
+      font-family: sans-serif;
+    }
+
+    #orientation-popup.show {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      animation: fadeIn 0.3s ease-in-out;
+    }
+
+    #orientation-popup svg {
+      width: 100px;
+      height: auto;
+      margin-bottom: 1em;
+      animation: rotatePhone 2s infinite ease-in-out;
+    }
+
+    @keyframes rotatePhone {
+      0% { transform: rotate(0deg); }
+      25% { transform: rotate(90deg); }
+      50% { transform: rotate(90deg); }
+      75% { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    #dismiss-btn {
+      margin-top: 1em;
+      padding: 0.6em 1.2em;
+      background: #00bcd4;
+      border: none;
+      color: white;
+      border-radius: 4px;
+      font-size: 1em;
+      cursor: pointer;
+    }

@@ -39,39 +39,55 @@ In your browser, run `localhost:1313` which should be also indicated in the term
 
 ### New Article 
 
+Standard post content.
+
 ```sh
 
-hugo new content article/article-name/index.md
+hugo new content articles/article-name/index.md
 ```
 
 ### New Presentation
+
+Presentations are content types with RevealJS integrated.
+
 ```sh
 hugo new content presentations/your-slideshow/index.md
 ```
 
 ### New Page
 
+Standard content page
+
 ```
 hugo new content pagename.md
 ```
 
 
-### Front Matter
-
-```toml
-[reveal_hugo]
-  custom_css="custom.css" # should be same folder or relative to index.md
-  theme = "white" # refer to the filenames in static/lib/reveal-js/dist/theme
-
-languageCode = "en" # language code
-```
 
 ## Presentations
 
 A custom content type has been added called presentations. This uses RevalJS
 
-### Markdown
+### Presentation Front Matter
 
+```toml
+languageCode = "en" # language code
+
+[reveal_hugo]
+  custom_css="custom.css" 
+  theme = "white" 
+  checkOrientation = false
+
+```
+
+- `languageCode` - if using another language other than `en`
+- `reveal_hugo.custom_css` - for using custom css for specific presenation. Relative to permalink.
+- `reveal_hugo.theme` - theme based on filename in revealjs [theme directory](static/lib/reveal-js/dist/theme)
+- `reveal_hugo.checkOrientation` - check if presenation is in mobile device and in portrait mode. 
+
+
+### Markdown
+Presentations use markdown for slideshows. Use `---` to divide into sections
 
 ```md
 
@@ -94,9 +110,10 @@ ___
 - Overview: `Esc`
 
 
-## Shortcodes
+### Shortcodes
+Useful shortcodes that could be used in presentations 
 
-### fragment
+#### fragment
 Implementation of [Fragments](https://revealjs.com/fragments/).
 ```
 {{< fragment >}}
@@ -106,7 +123,7 @@ Implementation of [Fragments](https://revealjs.com/fragments/).
 {{< /fragment >}}
 ```
 
-### slide
+#### slide
 
 Customize the current slide
 
