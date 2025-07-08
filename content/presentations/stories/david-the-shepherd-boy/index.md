@@ -35,7 +35,7 @@ presents
 Long ago in the days of King Saul of Israel, a boy named David helped his
 seven brothers look after their father's flocks. 
 
-Though he was youngest, David was a strong, brave boy who loved anbd trusted God. He lived in the town of Bethlehem.
+Though he was the youngest, David was a strong, brave boy who loved and trusted God. He lived in the town of Bethlehem.
  
 
 ---
@@ -60,7 +60,7 @@ Pulling the lamb away, he grabbed the snarling beast by its beard and killed it.
 
 {{< slide class="fill-section" transition="fade" background-image="https://res.cloudinary.com/jereme/image/upload/v1751957248/gospelslides/stories/david-the-shepherd-boy/03-samuel.jpg" >}}
 
-Samuel, God's prophet, was still sad that King Saul had failed God so badly. "How long will you mourn for Saul", God scolded Samuel. "I am sending you Jesse ... For I have 
+Samuel, God's prophet, was still sad that King Saul had failed God so badly. "How long will you mourn for Saul?", God scolded Samuel. "I am sending you Jesse ... For I have 
 provided Myself a king among his sons." Jesse was David's father.
 
 ---
@@ -79,7 +79,7 @@ the prophet obeyed God.
 
 {{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751958591/gospelslides/stories/david-the-shepherd-boy/05-samuel-anoints-david.jpg" >}}
 
-When Samuel arrived, Jesse mad seven of his sons pass before Samuel. 
+When Samuel arrived, Jesse made seven of his sons pass before Samuel. 
 And Samuel said to Jesse, "The LORD has not chosen these." 
 That only left David, the youngest. He was out with the sheep. They brought David in.
 And the LORD said, "Arise, anoint him; for this is the one."
@@ -175,9 +175,7 @@ Goliath laughed when he was that young David wasn't even wearing armor. "I will 
 
 {{< slide class="fill-section" transition="fade-in slide-out" background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/13-goliath-struck.jpg" >}}
 
-Then David ran straight toward Goliath. As he ran, he fired one stone from his sling - right into Goliath's forehead.
-
-Goliath fell.
+Then David ran straight toward Goliath. As he ran, he fired one stone from his sling - right into Goliath's forehead. Goliath fell!
 
 ---
 
