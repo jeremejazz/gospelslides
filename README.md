@@ -60,7 +60,7 @@ hugo new content pagename.md
 
 ```toml
 [reveal_hugo]
-  custom_css="" # permalink to css file. # TODO needs to be filename not permalink
+  custom_css="custom.css" # should be same folder or relative to index.md
   theme = "white" # refer to the filenames in static/lib/reveal-js/dist/theme
 
 languageCode = "en" # language code

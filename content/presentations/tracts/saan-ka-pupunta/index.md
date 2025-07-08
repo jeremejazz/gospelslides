@@ -9,6 +9,10 @@ tags = ["gospel", "tracts", "Filipino"]
   theme = "sky"
 +++
 
+*Ang susunod na presentasyon at kasalukuyang ginagawa pa*
+
+---
+
 # Saan ka pupunta
 
 ---

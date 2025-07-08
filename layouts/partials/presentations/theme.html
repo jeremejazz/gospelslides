@@ -22,5 +22,5 @@
 {{- end }}
 {{- $custom_css := $.Param "reveal_hugo.custom_css" -}}
 {{- if $custom_css -}}
-<link rel="stylesheet" href="{{ $custom_css | relURL }}" id="custom_css">
+<link rel="stylesheet" href="{{ .Permalink }}/{{ $custom_css }}" id="custom_css">
 {{- end -}}
