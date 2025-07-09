@@ -164,9 +164,6 @@ Goliath laughed when he was that young David wasn't even wearing armor. "I will 
 
 ---
 
-{{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/12-goliath-laughs.jpg" >}}
-
----
 
 {{< slide background-image="https://res.cloudinary.com/jereme/image/upload/v1751973837/gospelslides/stories/david-the-shepherd-boy/13-goliath-struck.jpg" >}}
 
@@ -207,15 +204,15 @@ King Saul did not remember that this was the same David who had soothed him with
 
 ---
 
-{{< slide class="fill-section" transition="fade-in slide-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/16-sauls-attempt.jpg" >}}
+{{< slide class="fill-section" transition="fade-in fade-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/16-sauls-attempt.jpg" >}}
 
 Again, King Saul's mind was troubled. So David played music to try and soothe him. Three times Saul threw his spear at David. But David escaped each time.
 
-{{< fragment >}}
+---
+
+{{< slide class="fill-section" transition="fade-in slide-out"  background-image="https://res.cloudinary.com/jereme/image/upload/v1751974884/gospelslides/stories/david-the-shepherd-boy/16-sauls-attempt.jpg" >}}
 
 Saul was afraid of David because he knew the LORD was with him, but had departed from Saul.
-
-{{< /fragment >}}
 
 ---
 
