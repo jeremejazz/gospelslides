@@ -479,7 +479,7 @@ So it is with your relationship to other Christians. You need to belong to a Bib
 <span class="green">**Share your discovery today!**</span>
 
 
-Berean Bible Baptist Church <br/>
+<a href="https://www.bereanbbc.org/" rel="nofollow" target="_blank">Berean Bible Baptist Church</a><br/>
 #6 First St. Area I, UPS 5 <br/>
 Parañaque City 1700<br/>
 Tel. No.: 829-1127<br/>
