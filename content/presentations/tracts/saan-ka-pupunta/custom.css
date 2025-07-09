@@ -1,0 +1,25 @@
+/* Continue sub list from previous slide */
+ul.sub-continuation{
+    list-style: none;
+}
+
+ol > li::marker {
+  font-weight: bold;
+}
+
+
+.button-link {
+        display: inline-flex; /* Allows icon and text to sit side-by-side */
+        align-items: center; /* Vertically centers icon and text */
+        gap: 0.5rem; /* Space between icon and text */
+        padding: 0.75rem 1.5rem; /* Padding around the content */
+        background-color: #044475; /* Primary blue background */
+        color: #ffffff !important; /* White text color */
+        font-weight: 600; /* Semi-bold font */
+        border-radius: 0.5rem; /* Rounded corners */
+        text-decoration: none; /* No underline for the link */
+        transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth hover effects */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        -webkit-tap-highlight-color: transparent; /* Remove tap highlight on mobile */
+    }
+
