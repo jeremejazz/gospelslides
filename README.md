@@ -66,17 +66,31 @@ hugo new content pagename.md
 
 ## Presentations
 
-A custom content type has been added called presentations. This uses RevalJS
+This website uses a custom content called `Presentations`, which implements RevealJS. The website automatically converts the content to presentation if created in the `content/presentation` directory.
+
+You can still post standard articles if content is created on a different folder.
+
 
 ### Presentation Front Matter
 
 ```toml
-languageCode = "en" # language code
++++
+title = "Title"
+date = 2025-07-07T10:04:54+08:00
+lastMod = "2025-07-09"
+draft = false
+
+languageCode = "en" # language code. defaults to "en"
+summary = "" # to be displayed on the list view
+tags = []
+categories = []
 
 [reveal_hugo]
   custom_css="custom.css" 
   theme = "white" 
   checkOrientation = false
+
++++
 
 ```
 
@@ -87,7 +101,11 @@ languageCode = "en" # language code
 
 
 ### Markdown
-Presentations use markdown for slideshows. Use `---` to divide into sections
+Presentations use markdown formatting. Use `---` to divide into sections.
+For more information about markdown, refer to this [guide](https://www.markdownguide.org/cheat-sheet/).
+
+HTML tags can alsoo be used for advanced formatting.
+
 
 ```md
 
@@ -125,7 +143,10 @@ Implementation of [Fragments](https://revealjs.com/fragments/).
 
 #### slide
 
-Customize the current slide
+The slide shortcode lets you set custom HTML and Reveal.js attributes for each slide - things like id, class, transition, background just to name a few. The names are the same as Reveal.js but without the 'data-' prefix. ([source](https://github.com/joshed-io/reveal-hugo?tab=readme-ov-file#slide-shortcode))
+
+Add the shortcode above the slide content, below the --- separator. Do not place content inside of the shortcode.
+
 
 ```md
 ---
@@ -138,3 +159,53 @@ Customize the current slide
 
 ```
 
+
+Here's a list of documented slide attributes from the Reveal.js docs:
+
+- `autoslide`
+- `state`
+- `background`
+- `background-color`
+- `background-image`
+- `background-size`
+- `background-position`
+- `background-repeat`
+- `background-opacity` (Opacity is on a 0-1 scale, by decimal. 0=transparent, 1=opaque.)
+- `background-video`
+- `background-video-loop`
+- `background-video-muted`
+- `background-interactive`
+- `background-iframe`
+- `background-transition`
+- `transition` (can have different in and out transitions)
+- `transition-speed`
+- `notes` (can also use the note shortcode)
+- `timing`
+
+### Additional data attributes
+
+[](https://github.com/joshed-io/reveal-hugo?tab=readme-ov-file#additional-data-attributes)
+
+Check MDN for information about how these attributes work.
+
+- data-background-image - URL of the image to show. GIFs restart when the slide opens.
+- data-background-size
+- data-background-position
+- data-background-repeat
+- data-background-opacity
+
+You can also pass through your own, a `data-` prefix will be added automatically to each one (except for `id` and `class`).
+
+
+
+### HTML slides
+
+[](https://github.com/joshed-io/reveal-hugo?tab=readme-ov-file#html-slides)
+
+If you need to create fancier HTML for a slide than you can do with markdown, just add `data-noprocess` to the <section> element.
+
+```html
+<section data-noprocess>
+  <h1>Hello, world!</h1>
+</section>
+```
