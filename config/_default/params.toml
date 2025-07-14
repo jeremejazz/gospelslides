@@ -14,7 +14,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["presentations"]
+mainSections = ["slides"]
 # robots = ""
 
 disableImageOptimization = false
@@ -47,7 +47,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "presentations"
+  showMoreLinkDest = "slides"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Presentations"
-  pageRef = "presentations"
+  name = "Slides"
+  pageRef = "slides"
   weight = 10
 
 [[main]]
   name = "Tracts"
-  parent = "Presentations"
+  parent = "Slides"
   pageRef = "categories/tracts"
   weight = 20
 
 [[main]]
   name = "Stories for Children"
-  parent = "Presentations"
+  parent = "Slides"
   pageRef = "categories/stories-for-children"
   weight = 40
 
