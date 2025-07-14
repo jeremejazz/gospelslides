@@ -15,7 +15,7 @@ https://github.com/joshed-io/reveal-hugo
 
 
   <meta charset="utf-8">
-  {{ partial "presentations/meta" . -}}
+  {{ partial "slides/meta" . -}}
 
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
     <link rel="manifest" href="{{ .RelPermalink }}">
@@ -25,9 +25,9 @@ https://github.com/joshed-io/reveal-hugo
 
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
 
-    {{ $cssPresentations := resources.Get "css/presentations.css" | minify }}
-    <link rel="stylesheet" type="text/css" href="{{ $cssPresentations.RelPermalink }}">
-  {{ partial "presentations/theme" . -}}
+    {{ $cssSlides := resources.Get "css/slides.css" | minify }}
+    <link rel="stylesheet" type="text/css" href="{{ $cssSlides.RelPermalink }}">
+  {{ partial "slides/theme" . -}}
   </head>
 
   <body>
@@ -75,7 +75,7 @@ https://github.com/joshed-io/reveal-hugo
       plugins: [ FsFx ],
     });
   </script>
-  {{ partial "presentations/orientation" . -}}
+  {{ partial "slides/orientation" . -}}
 
 </body>
 </html>

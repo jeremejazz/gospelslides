@@ -46,12 +46,12 @@ Standard post content.
 hugo new content articles/article-name/index.md
 ```
 
-### New Presentation
+### New Slides
 
-Presentations are content types with RevealJS integrated.
+Slides are content types that get rendered into presentation format.
 
 ```sh
-hugo new content presentations/your-slideshow/index.md
+hugo new content slides/your-slideshow/index.md
 ```
 
 ### New Page
@@ -64,9 +64,9 @@ hugo new content pagename.md
 
 
 
-## Presentations
+## Slides
 
-This website uses a custom content called `Presentations`, which implements RevealJS. The website automatically converts the content to presentation if created in the `content/presentation` directory.
+This website uses a custom content called `Slides`, which implements RevealJS. The website automatically converts the content to presentation if created in the `content/slides` directory.
 
 You can still post standard articles if content is created on a different folder.
 
@@ -101,7 +101,7 @@ categories = []
 
 
 ### Markdown
-Presentations use markdown formatting. Use `---` to divide into sections.
+Slides use markdown formatting. Use `---` to divide into sections.
 For more information about markdown, refer to this [guide](https://www.markdownguide.org/cheat-sheet/).
 
 HTML tags can alsoo be used for advanced formatting.
@@ -120,7 +120,7 @@ ___
 
 ```
 
-### Presentation Controls
+### Slideshow Controls
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
 - Start: `Home`
