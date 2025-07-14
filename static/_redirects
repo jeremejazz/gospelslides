@@ -1,1 +1,2 @@
+# redirect presentation directory to slides
 /presentations/* /slides/:splat
