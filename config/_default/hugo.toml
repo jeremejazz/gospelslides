@@ -5,7 +5,7 @@
 # Configure title at languages.en.toml
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://slides.jereme.me" # temporary 
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
