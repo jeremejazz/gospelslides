@@ -1,2 +1,2 @@
 # allow organizing slides into folders
-slides = "slides/:slugorcontentbasename"
+slides = "/:slugorcontentbasename"
