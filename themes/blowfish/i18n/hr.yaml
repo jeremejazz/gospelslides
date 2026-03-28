@@ -25,6 +25,10 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "Odgovori e-poštom"
+
+a11y:
+  title: "Postavke pristupačnosti"
 
 author:
   byline_title: "Autor"
@@ -59,6 +63,7 @@ search:
 sharing:
   email: "Pošalji putem e-pošte"
   facebook: "Podijeli na Facebook"
+  line: "Podijeli na LINE"
   linkedin: "Podijeli na LinkedIn"
   pinterest: "Podijeli na Pinterest"
   reddit: "Objavi na Reddit"

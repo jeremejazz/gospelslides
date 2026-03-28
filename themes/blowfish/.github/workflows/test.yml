@@ -10,7 +10,7 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: true
           fetch-depth: 0
@@ -22,4 +22,6 @@ jobs:
 
       - name: Build
         working-directory: ./exampleSite
-        run: hugo --minify --themesDir ../.. --baseURL https://nunocoracao.github.io/blowfish/
+        run:
+          hugo --minify --themesDir ../.. --baseURL
+          https://nunocoracao.github.io/blowfish/

@@ -1,0 +1,23 @@
+languageCode = "fil"
+languageName = "Filipino"
+weight = 2
+title = "Gospel Slides"
+
+[params]
+  displayName = "Filipino"
+  isoCode = "fil"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/gospelslides_logo.jpg"
+  description = "Mga slideshow na nagbabahagi ng mabuting balita"
+
+# [params.author]
+#   name = ""
+#   email = ""
+#   image = "img/blowfish_logo.png"
+#   headline = "A powerful, lightweight theme for Hugo."
+#   bio = "A powerful, lightweight theme for Hugo."
+#   links = [
+#     { x-twitter = "" },
+#     { github = "" },
+#   ]

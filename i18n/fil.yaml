@@ -1,0 +1,6 @@
+# Hide recent
+shortcode:
+  recent_articles: ""
+global:
+  language: "FIL"
+stories_for_children: "Kwentong Pambata"

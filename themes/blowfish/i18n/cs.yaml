@@ -25,6 +25,14 @@ article:
   part: "Část"
   this_article: "Tento článek"
   related_articles: "Related"
+  reply_by_email: "Odpovědět e-mailem"
+
+a11y:
+  title: "Nastavení přístupnosti"
+  disable_blur: "Zakázat rozmazání"
+  disable_images: "Zakázat obrázky"
+  show_link_underline: "Zobrazit podtržení odkazů"
+  font_size: "Velikost písma"
 
 author:
   byline_title: "Autor"
@@ -59,6 +67,7 @@ search:
 sharing:
   email: "Poslat emailem"
   facebook: "Sdílet na Facebook"
+  line: "Sdílejte na LINE"
   linkedin: "Sdílet na LinkedIn"
   pinterest: "Připnout na Pinterest"
   reddit: "Přidat na Reddit"
