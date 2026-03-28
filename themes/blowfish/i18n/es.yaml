@@ -25,9 +25,13 @@ article:
   part: "Parte"
   this_article: "Este artículo"
   related_articles: "Relacionados"
+  reply_by_email: "Responder por email"
   zen_mode_title:
     enable: "Activar modo zen"
     disable: "Desactivar modo zen"
+
+a11y:
+  title: "Configuración de accesibilidad"
 
 author:
   byline_title: "Autor"
@@ -62,6 +66,7 @@ search:
 sharing:
   email: "Enviar vía email"
   facebook: "Compartir en Facebook"
+  line: "Compartir en LINE"
   linkedin: "Compartir en LinkedIn"
   pinterest: "Pinear en Pinterest"
   reddit: "Publicar en Reddit"

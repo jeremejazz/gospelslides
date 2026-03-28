@@ -25,6 +25,14 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "Ответить по электронной почте"
+
+a11y:
+  title: "Настройки доступности"
+  disable_blur: "Отключить размытие"
+  disable_images: "Отключить изображения"
+  show_link_underline: "Показать подчеркивание ссылок"
+  font_size: "Размер шрифта"
 
 author:
   byline_title: "Автор"
@@ -59,6 +67,7 @@ search:
 sharing:
   email: "Отправить по электронной почте"
   facebook: "Поделиться через Facebook"
+  line: "Поделиться через LINE"
   linkedin: "Поделиться через LinkedIn"
   pinterest: "Добавить в Pinterest"
   reddit: "Отправить в Reddit"

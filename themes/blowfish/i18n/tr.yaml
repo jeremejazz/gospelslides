@@ -18,6 +18,10 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "E-posta ile yanıtla"
+
+a11y:
+  title: "Erişilebilirlik ayarları"
 
 author:
   byline_title: "Yazar"
@@ -52,6 +56,7 @@ search:
 sharing:
   email: "Email ile gönder"
   facebook: "Facebook'ta paylaş"
+  line: "LINE'da paylaş"
   linkedin: "LinkedIn'te paylaş"
   pinterest: "Pinterest'te pinle"
   reddit: "Reddit'te gönder"

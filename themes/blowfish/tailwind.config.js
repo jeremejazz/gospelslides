@@ -1,21 +1,15 @@
 module.exports = {
-  content: [
-    "./layouts/**/*.html",
-    "./content/**/*.{html,md}",
-    "./themes/blowfish/layouts/**/*.html",
-    "./themes/blowfish/content/**/*.{html,md}",
-    "./node_modules/tw-elements/js/**/*.js"
-  ],
   darkMode: "class",
   theme: {
     screens: {
-      'sm': '640px',
-      'md': '853px',
-      'lg': '1024px',
-      'xl': '1280px',
-      '2xl': '1536px',
+      sm: "640px",
+      md: "853px",
+      lg: "1024px",
+      xl: "1280px",
+      "2xl": "1536px",
     },
     colors: {
+      ...require('tailwindcss/colors'),
       transparent: "transparent",
       neutral: {
         DEFAULT: "rgba(var(--color-neutral), <alpha-value>)",
@@ -63,12 +57,11 @@ module.exports = {
             "--tw-prose-headings": theme("colors.neutral.800 / 1"),
             "--tw-prose-lead": theme("colors.neutral.500 / 1"),
             "--tw-prose-links": theme("colors.primary.600 / 1"),
-            "--tw-prose-bold": theme("colors.neutral.900 / 1"),
+            "--tw-prose-bold": "inherit",
             "--tw-prose-counters": theme("colors.neutral.800 / 1"),
             "--tw-prose-bullets": theme("colors.neutral.500 / 1"),
-            "--tw-prose-hr": theme("colors.neutral.200 / 1"),
             "--tw-prose-quotes": theme("colors.neutral.700 / 1"),
-            "--tw-prose-quote-borders": theme("colors.primary.200 / 1"),
+            "--tw-prose-quote-borders": theme("colors.primary.500 / 1"),
             "--tw-prose-captions": theme("colors.neutral.500 / 1"),
             "--tw-prose-code": theme("colors.secondary.700 / 1"),
             "--tw-prose-pre-code": theme("colors.neutral.700 / 1"),
@@ -82,9 +75,8 @@ module.exports = {
             "--tw-prose-invert-bold": theme("colors.neutral.DEFAULT / 1"),
             "--tw-prose-invert-counters": theme("colors.neutral.400 / 1"),
             "--tw-prose-invert-bullets": theme("colors.neutral.600 / 1"),
-            "--tw-prose-invert-hr": theme("colors.neutral.500 / 1"),
             "--tw-prose-invert-quotes": theme("colors.neutral.200 / 1"),
-            "--tw-prose-invert-quote-borders": theme("colors.primary.900 / 1"),
+            "--tw-prose-invert-quote-borders": theme("colors.primary.600 / 1"),
             "--tw-prose-invert-captions": theme("colors.neutral.400 / 1"),
             "--tw-prose-invert-code": theme("colors.secondary.400 / 1"),
             "--tw-prose-invert-pre-code": theme("colors.neutral.200 / 1"),
@@ -104,6 +96,9 @@ module.exports = {
             "a code": {
               color: "var(--tw-prose-code)",
             },
+            hr: {
+              border: '0.8px solid theme("colors.neutral.300 / 1")',
+            },
             kbd: {
               backgroundColor: theme("colors.neutral.200 / 1"),
               padding: "0.1rem 0.4rem",
@@ -117,32 +112,31 @@ module.exports = {
               padding: "0.1rem 0.2rem",
               borderRadius: "0.25rem",
             },
-            code:{
-              backgroundColor: theme("colors.neutral.50 / 1"),
+            code: {
               paddingTop: "3px",
               paddingBottom: "3px",
               paddingLeft: "5px",
               paddingRight: "5px",
               borderRadius: "0.25rem",
             },
-            'code::before': {
-              display: 'none'
+            "code::before": {
+              display: "none",
             },
-            'code::after': {
-              display: 'none'
+            "code::after": {
+              display: "none",
             },
-            'p::before': {
-              display: 'none'
+            "p::before": {
+              display: "none",
             },
-            'p::after': {
-              display: 'none'
+            "p::after": {
+              display: "none",
             },
-            'a.active': {
+            "a.active": {
               "text-decoration-color": theme("colors.primary.600 / 1"),
             },
-            'p.active': {
+            "p.active": {
               "text-decoration-color": theme("colors.primary.600 / 1"),
-            }
+            },
           },
         },
         invert: {
@@ -160,15 +154,18 @@ module.exports = {
             mark: {
               backgroundColor: theme("colors.primary.400 / 1"),
             },
-            code:{
-              backgroundColor: theme("colors.neutral.700 / 1"),
+            "code:not(pre code)": {
+              backgroundColor: theme("colors.zinc.900 / 0.7"),
             },
-            'a.active': {
-              "text-decoration-color": theme("colors.primary.400 / 1")
+            "a.active": {
+              "text-decoration-color": theme("colors.primary.400 / 1"),
             },
-            'p.active': {
-              "text-decoration-color": theme("colors.primary.400 / 1")
-            }
+            "p.active": {
+              "text-decoration-color": theme("colors.primary.400 / 1"),
+            },
+            hr: {
+              border: '0.8px solid theme("colors.neutral.500 / 1")',
+            },
           },
         },
       }),
@@ -176,7 +173,7 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/typography"),
-    require('@tailwindcss/forms'),
-    require('tailwind-scrollbar')({ preferredStrategy: 'pseudoelements' })
+    require("@tailwindcss/forms"),
+    require("tailwind-scrollbar")({ preferredStrategy: "pseudoelements" }),
   ],
 };
