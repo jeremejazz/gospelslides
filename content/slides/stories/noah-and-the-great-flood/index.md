@@ -1,8 +1,8 @@
 +++
-title = "Noah and the great flood"
+title = "Noah and the Great Flood (Draft)"
 date = 2026-03-28T13:47:44.800Z
 lastMod = 2026-03-28T13:47:44.800Z
-draft = true
+draft = false
 summary= "David the Shepherd Boy. A story from God's Word, the Bible found in 1 Samuel 16-20"
 tags = ["stories"]
 categories = ["Stories for Children"]

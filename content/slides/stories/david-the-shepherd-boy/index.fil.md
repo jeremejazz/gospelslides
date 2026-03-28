@@ -1,5 +1,5 @@
 +++
-title = "Ang Batang Pastol na si David"
+title = "Ang Batang Pastol na si David (Draft)"
 date = 2025-07-07T18:56:54+08:00
 lastMod = 2026-03-28T13:47:44.800Z
 draft = false
