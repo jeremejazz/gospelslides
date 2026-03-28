@@ -1,0 +1,5 @@
+# Hide recent
+shortcode:
+  recent_articles: ""
+global:
+  language: "FIL"

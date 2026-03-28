@@ -3,7 +3,6 @@ title = "Saan Ka Pupunta"
 date = 2025-07-07T10:04:54+08:00
 lastMod = "2025-07-09"
 draft = false
-languageCode="fil"
 summary="Kaibigan, nais ko sanang sagutin mo ang pinakamahalagang katanungan ng buhay..."
 tags = ["gospel", "Filipino"]
 categories = ["tracts"]
