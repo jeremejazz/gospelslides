@@ -22,7 +22,8 @@
   weight = 20
 
 [[main]]
-  name = "Stories for Children"
+  identifier="stories_for_children"
+  name = "Kwentong Pambata"
   parent = "Slides"
   pageRef = "categories/stories-for-children"
   weight = 40

@@ -22,6 +22,7 @@
   weight = 20
 
 [[main]]
+  identifier="stories_for_children"
   name = "Stories for Children"
   parent = "Slides"
   pageRef = "categories/stories-for-children"
